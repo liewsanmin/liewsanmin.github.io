@@ -8,8 +8,8 @@ date: 2016-05-22
 blog: true
 ---
 
-  ![Image of Yaktocat]
-  (https://octodex.github.com/images/yaktocat.png)
+  ![Image of Yaktocat][1]
+
 
 
 
@@ -184,7 +184,7 @@ Photo credits: Nguyen Ngoc Anh
 
   ![Markdown Image][17]
 
-[1]: https://github.com/liewsanmin/liewsanmin.github.io/blob/master/chicago-5-20-images/IMG_0118.JPG
+[1]: https://octodex.github.com/images/yaktocat.png
 [2]: /chicago-5-20-images/car_trip_1.jpg
 [3]: /chicago-5-20-images/car_trip_2.jpg
 [4]: /chicago-5-20-images/car_trip_3.jpg
