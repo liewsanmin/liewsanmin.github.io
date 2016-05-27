@@ -8,7 +8,7 @@ date: 2016-05-22
 blog: true
 ---
 
-  ![Markdown Image]
+  ![Image]
   (liewsanmin.github.io/chicago-5-20-images/bbq_1.JPG)
 
 
@@ -183,7 +183,7 @@ Photo credits: Nguyen Ngoc Anh
 
   ![Markdown Image][17]
 
-[1]: liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG
+[1]: https://github.com/liewsanmin/liewsanmin.github.io/blob/master/chicago-5-20-images/IMG_0118.JPG
 [2]: /chicago-5-20-images/car_trip_1.jpg
 [3]: /chicago-5-20-images/car_trip_2.jpg
 [4]: /chicago-5-20-images/car_trip_3.jpg
