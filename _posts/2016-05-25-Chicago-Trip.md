@@ -8,8 +8,9 @@ date: 2016-05-22
 blog: true
 ---
 
-  ![Image]
-  (liewsanmin.github.io/chicago-5-20-images/bbq_1.JPG)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
+
 
 
 An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
