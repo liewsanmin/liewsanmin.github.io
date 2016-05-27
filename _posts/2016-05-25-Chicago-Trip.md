@@ -8,7 +8,7 @@ date: 2016-05-22
 blog: true
 ---
 
-![1]
+  ![1]
 
 
 An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
@@ -25,8 +25,8 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   on my own and it will be troublesome to fix my car if it gets down to that.
   Anyway, look how beautiful it is from the inside!
 
-![Markdown Image][2]
-*Mickey and Minnie joining the fun!*
+  ![Markdown Image][2]
+  *Mickey and Minnie joining the fun!*
 
 
 ![Markdown Image][3]
