@@ -8,7 +8,7 @@ date: 2016-05-22
 blog: true
 ---
 
-  ![Image of Yaktocat][1]
+  ![Image of buffet][1]
 
 
 
@@ -184,7 +184,7 @@ Photo credits: Nguyen Ngoc Anh
 
   ![Markdown Image][17]
 
-[1]: liewsanmin.github.io/chicago-5-20-images/buffet_1.png
+[1]: https://liewsanmin.github.io/chicago-5-20-images/buffet_1.png
 [2]: /chicago-5-20-images/car_trip_1.jpg
 [3]: /chicago-5-20-images/car_trip_2.jpg
 [4]: /chicago-5-20-images/car_trip_3.jpg
