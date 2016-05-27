@@ -8,7 +8,7 @@ date: 2016-05-22
 blog: true
 ---
 
-![Markdowm Image][1]
+![Markdown Image][1]
 
 
 An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
@@ -25,14 +25,14 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   on my own and it will be troublesome to fix my car if it gets down to that.
   Anyway, look how beautiful it is from the inside!
 
-![Markdowm Image][2]
+![Markdown Image][2]
 *Mickey and Minnie joining the fun!*
 
 
-![Markdowm Image][3]
+![Markdown Image][3]
 *Dem Harley Davidson*
 
-![Markdowm Image][4]
+![Markdown Image][4]
 *Halo~*
 
   After about 6 hours of drive and settling at Sheraton Hotel (yes, it is
@@ -42,12 +42,12 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   restaurant. The meal was like a mini celebration for us for arriving Chicago,
   the waitress even helped us to cook our meal.
 
-  ![Markdowm Image][5]
+  ![Markdown Image][5]
   *yummy~*
 
-  ![Markdowm Image][6]
+  ![Markdown Image][6]
 
-  ![Markdowm Image][7]
+  ![Markdown Image][7]
 
   The first day was awesome so far, I recommend using hotwire, yelp, and Google
   Maps when planning for road trips.
@@ -60,41 +60,41 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   an awesome breakfast buffet before going to our first checkpoint Millennium
   Park.
 
-  ![Markdowm Image][8]
+  ![Markdown Image][8]
 
-  ![Markdowm Image][9]
+  ![Markdown Image][9]
   *Omelet, too good*
 
-  ![Markdowm Image][10]
+  ![Markdown Image][10]
 
 
   Just like every other tourists, we took tons of pictures, well my girlfriend
   did. I am just people watching. I'll let the pictures tell the rest of the
   story from here.
 
-  ![Markdowm Image][11]
+  ![Markdown Image][11]
   *The infamous 360 tower*
 
-  ![Markdowm Image][12]
+  ![Markdown Image][12]
 
-  ![Markdowm Image][13]
+  ![Markdown Image][13]
 
-  ![Markdowm Image][14]
+  ![Markdown Image][14]
 
-  ![Markdowm Image][15]
+  ![Markdown Image][15]
 
-  ![Markdowm Image][16]
+  ![Markdown Image][16]
   *shoo cute!*
 
-  ![Markdowm Image][18]
+  ![Markdown Image][18]
 
-  ![Markdowm Image][19]
+  ![Markdown Image][19]
 
-  ![Markdowm Image][20]
+  ![Markdown Image][20]
 
-  ![Markdowm Image][21]
+  ![Markdown Image][21]
 
-  ![Markdowm Image][22]
+  ![Markdown Image][22]
 
   Continuing our planned trip, we decided to go and have lunch at Chinatown.
   The one in Chicago feels like every other Chinatown I have been to in the US.
@@ -103,21 +103,21 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   Malay cake we ordered, Malaysia's Malay Cake is wayyyy better than the one
   that is served here.
 
-  ![Markdowm Image][23]
+  ![Markdown Image][23]
 
-  ![Markdowm Image][24]
+  ![Markdown Image][24]
 
-  ![Markdowm Image][25]
+  ![Markdown Image][25]
 
-  ![Markdowm Image][26]
+  ![Markdown Image][26]
 
-  ![Markdowm Image][27]
+  ![Markdown Image][27]
   *I don't like this :(*
 
-  ![Markdowm Image][28]
+  ![Markdown Image][28]
   *Piggy*
 
-  ![Markdowm Image][29]
+  ![Markdown Image][29]
   *Cuckoo. Wake up!*
 
   Now we are ready to go 360 observation deck and walk along the Magnificient
@@ -126,39 +126,39 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   to save the world. All of them. Downtown view looks nice though. Good place to
   take pictures.
 
-  ![Markdowm Image][30]
+  ![Markdown Image][30]
 
-  ![Markdowm Image][31]
+  ![Markdown Image][31]
 
-  ![Markdowm Image][32]
+  ![Markdown Image][32]
 
-  ![Markdowm Image][33]
+  ![Markdown Image][33]
   *Ended up not going up, the view from the bottom is good enough!*
 
-  ![Markdowm Image][34]
+  ![Markdown Image][34]
 
-  ![Markdowm Image][35]
+  ![Markdown Image][35]
   *I like this pic*
 
-  ![Markdowm Image][36]
+  ![Markdown Image][36]
 
-  ![Markdowm Image][37]
+  ![Markdown Image][37]
 
-  ![Markdowm Image][38]
+  ![Markdown Image][38]
 
   All right, we finally have a feel of of Chicago downtown. What's that? Energy
   bar running low? Okay Yelp saved the day again, Silver Spoon Thai Restaurant
   it is.
 
-  ![Markdowm Image][39]
+  ![Markdown Image][39]
 
-  ![Markdowm Image][40]
+  ![Markdown Image][40]
 
-  ![Markdowm Image][41]
+  ![Markdown Image][41]
 
-  ![Markdowm Image][42]
+  ![Markdown Image][42]
 
-  ![Markdowm Image][43]
+  ![Markdown Image][43]
 
   We were suppose to walk along Navy Pier but at this point it was getting
   chilly and it is getting dark. Instead of walking we just drove at Navy Pier
@@ -180,7 +180,7 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
 
 Photo credits: Nguyen Ngoc Anh
 
-  ![Markdowm Image][17]
+  ![Markdown Image][17]
 
 [1]: /chicago-5-20-images/IMG_0118.jpg
 [2]: /chicago-5-20-images/car_trip_1.jpg
