@@ -8,7 +8,7 @@ date: 2016-05-22
 blog: true
 ---
 
-![Markdown Image][1]
+![1]
 
 
 An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
