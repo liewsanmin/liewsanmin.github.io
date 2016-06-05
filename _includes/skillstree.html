@@ -1,0 +1,60 @@
+<!-- skills -->
+<div class="content">
+<div class="col">
+  <h2>My Skill</h2>
+    <ul id="skill">
+    <li><span class="expand html5"></span><em>HTML 5</em></li>
+    <li><span class="expand css3"></span><em>CSS 3</em></li>
+    <li><span class="expand jquery"></span><em>jQuery</em></li>
+    <li><span class="expand photoshop"></span><em>Photoshop</em></li>
+    <li><span class="expand dreamweaver"></span><em>Dreamweaver</em></li>
+    </ul>
+</div>
+</div>
+
+<section id="skills">
+					<progress value="80" max="100"></progress><span>JavaScript/jQuery</span>
+					<progress value="70" max="100"></progress><span>HTML5/CSS3</span>
+					<progress value="60" max="100"></progress><span>NodeJS</span>
+					<progress value="70" max="100"></progress><span>Java/PHP</span>
+					<progress value="60" max="100"></progress><span>MySQL</span>
+					<progress value="80" max="100"></progress><span>Photoshop</span>
+					</section>
+
+<p><strong>SOURCE :</strong> http://w3lessons.info/2013/06/04/skill-bar-with-jquery-css3/</p>
+
+#skills span {
+    top: -30px;
+    left: 2%;
+    position: relative;
+    font-size: 1.4em;
+    font-weight: bolder;
+    font-family: monospace;
+    color: #fff;
+}
+
+progress {
+    background-color: #f3f3f3;
+    border: 0;
+    height: 2.5em;
+    width: 100%;
+}
+
+progress::-webkit-progress-bar {
+    background-color: #e0eaf0;
+}
+
+progress::-webkit-progress-value {
+    background-color: #329ad1;
+}
+
+progress::-moz-progress-bar {
+    background-color: #329ad1;
+}
+
+$(function() {
+  $('progress').each(function() {
+    var max = $(this).val();
+    $(this).val(0).animate({ value: max }, { duration: 2000, easing: 'easeOutCirc' });
+			});
+});
