@@ -5,13 +5,10 @@ date: 2016-05-22
 <!--tag:
 - markdown
 - elements-->
-blog: false
+blog: true
 ---
 
   ![Image of buffet][1]
-
-
-
 
 An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
 
@@ -54,8 +51,6 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   The first day was awesome so far, I recommend using hotwire, yelp, and Google
   Maps when planning for road trips.
 
-
-
 ## 2nd day
 
   We started our second day around 10am (wanted to wake up earlier though). Had
@@ -69,7 +64,6 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
 
   ![Markdown Image][10]
 
-
   Just like every other tourists, we took tons of pictures, well my girlfriend
   did. I am just people watching. I'll let the pictures tell the rest of the
   story from here.
@@ -77,26 +71,9 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   ![Markdown Image][11]
   *The infamous 360 tower*
 
-  ![Markdown Image][12]
-
-  ![Markdown Image][13]
-
-  ![Markdown Image][14]
-
-  ![Markdown Image][15]
-
-  ![Markdown Image][16]
-  *shoo cute!*
-
-  ![Markdown Image][18]
-
-  ![Markdown Image][19]
-
   ![Markdown Image][20]
 
   ![Markdown Image][21]
-
-  ![Markdown Image][22]
 
   Continuing our planned trip, we decided to go and have lunch at Chinatown.
   The one in Chicago feels like every other Chinatown I have been to in the US.
@@ -116,19 +93,11 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   ![Markdown Image][27]
   *I don't like this :(*
 
-  ![Markdown Image][28]
-  *Piggy*
-
-  ![Markdown Image][29]
-  *Cuckoo. Wake up!*
-
   Now we are ready to go 360 observation deck and walk along the Magnificient
   Mile (shopping and such). One thing I want to highlight about Chicago drivers,
   I noticed all of them are in a hurry, as if they are on an important mission
   to save the world. All of them. Downtown view looks nice though. Good place to
   take pictures.
-
-  ![Markdown Image][30]
 
   ![Markdown Image][31]
 
@@ -139,24 +108,15 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
 
   ![Markdown Image][34]
 
-  ![Markdown Image][35]
-  *I like this pic*
-
   ![Markdown Image][36]
 
   ![Markdown Image][37]
-
-  ![Markdown Image][38]
 
   All right, we finally have a feel of of Chicago downtown. What's that? Energy
   bar running low? Okay Yelp saved the day again, Silver Spoon Thai Restaurant
   it is.
 
-  ![Markdown Image][39]
-
   ![Markdown Image][40]
-
-  ![Markdown Image][41]
 
   ![Markdown Image][42]
 
@@ -182,8 +142,6 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
 
 Photo credits: Nguyen Ngoc Anh
 
-  ![Markdown Image][17]
-
 [1]: https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG
 [2]: https://liewsanmin.github.io/chicago-5-20-images/car_trip_1.JPG
 [3]: https://liewsanmin.github.io/chicago-5-20-images/car_trip_2.JPG
@@ -195,35 +153,19 @@ Photo credits: Nguyen Ngoc Anh
 [9]: https://liewsanmin.github.io/chicago-5-20-images/buffet_2.JPG
 [10]: https://liewsanmin.github.io/chicago-5-20-images/buffet_3.JPG
 [11]: https://liewsanmin.github.io/chicago-5-20-images/m_park_1.JPG
-[12]: https://liewsanmin.github.io/chicago-5-20-images/m_park_2.JPG
-[13]: https://liewsanmin.github.io/chicago-5-20-images/m_park_3.JPG
-[14]: https://liewsanmin.github.io/chicago-5-20-images/m_park_4.JPG
-[15]: https://liewsanmin.github.io/chicago-5-20-images/m_park_5.JPG
-[16]: https://liewsanmin.github.io/chicago-5-20-images/m_park_6.JPG
-[17]: https://liewsanmin.github.io/chicago-5-20-images/m_park_7.JPG
-[18]: https://liewsanmin.github.io/chicago-5-20-images/m_park_8.JPG
-[19]: https://liewsanmin.github.io/chicago-5-20-images/m_park_9.JPG
 [20]: https://liewsanmin.github.io/chicago-5-20-images/m_park_10.JPG
 [21]: https://liewsanmin.github.io/chicago-5-20-images/m_park_11.JPG
-[22]: https://liewsanmin.github.io/chicago-5-20-images/m_park_12.JPG
 [23]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_1.JPG
 [24]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_2.JPG
 [25]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_3.JPG
 [26]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_4.JPG
 [27]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_5.JPG
-[28]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_6.JPG
-[29]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_7.JPG
-[30]: https://liewsanmin.github.io/chicago-5-20-images/downtown_1.JPG
 [31]: https://liewsanmin.github.io/chicago-5-20-images/downtown_2.JPG
 [32]: https://liewsanmin.github.io/chicago-5-20-images/downtown_3.JPG
 [33]: https://liewsanmin.github.io/chicago-5-20-images/downtown_4.JPG
 [34]: https://liewsanmin.github.io/chicago-5-20-images/downtown_5.JPG
-[35]: https://liewsanmin.github.io/chicago-5-20-images/downtown_6.JPG
 [36]: https://liewsanmin.github.io/chicago-5-20-images/downtown_7.JPG
 [37]: https://liewsanmin.github.io/chicago-5-20-images/downtown_8.JPG
-[38]: https://liewsanmin.github.io/chicago-5-20-images/downtown_9.JPG
-[39]: https://liewsanmin.github.io/chicago-5-20-images/thai_1.JPG
 [40]: https://liewsanmin.github.io/chicago-5-20-images/thai_2.JPG
-[41]: https://liewsanmin.github.io/chicago-5-20-images/thai_3.JPG
 [42]: https://liewsanmin.github.io/chicago-5-20-images/thai_4.JPG
 [43]: https://liewsanmin.github.io/chicago-5-20-images/thai_5.JPG
