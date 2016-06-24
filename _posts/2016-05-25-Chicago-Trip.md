@@ -71,8 +71,6 @@ An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
   ![Markdown Image][11]
   *The infamous 360 tower*
 
-  ![Markdown Image][20]
-
   ![Markdown Image][21]
 
   Continuing our planned trip, we decided to go and have lunch at Chinatown.
@@ -153,7 +151,6 @@ Photo credits: Nguyen Ngoc Anh
 [9]: https://liewsanmin.github.io/chicago-5-20-images/buffet_2.JPG
 [10]: https://liewsanmin.github.io/chicago-5-20-images/buffet_3.JPG
 [11]: https://liewsanmin.github.io/chicago-5-20-images/m_park_1.JPG
-[20]: https://liewsanmin.github.io/chicago-5-20-images/m_park_10.JPG
 [21]: https://liewsanmin.github.io/chicago-5-20-images/m_park_11.JPG
 [23]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_1.JPG
 [24]: https://liewsanmin.github.io/chicago-5-20-images/chinatown_2.JPG
