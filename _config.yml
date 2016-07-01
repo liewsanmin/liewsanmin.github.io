@@ -6,8 +6,8 @@ bio: 'Your friendly Computer Engineer'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://localhost:4000/
-url: http://liewsanmin.github.io
+url: http://localhost:4000/
+# url: http://liewsanmin.github.io
 #your url: http://liewsanmin.github.io
 
 permalink: /:title/
@@ -19,7 +19,7 @@ analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, set to false
 #disqus: mydisqus
-disqus: false
+disqus: true
 
 # if you don't have any of social below, comment the line
 facebook: joshua.sanmin

@@ -10,7 +10,7 @@ blog: true
 
   ![Image of buffet][1]
 
-An awesome road trip to Chicago with my sweet girlfriend Ngoc Anh. Let's go!
+My girlfriend and I had a fun getaway on a road trip to Chicago.
 
 ## 1st day
 
