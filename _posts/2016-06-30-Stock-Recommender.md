@@ -44,7 +44,7 @@ Sounds easy enough? Good you're getting there.
 
 ## Step 1:
 Before you we go into details you
-would need install [lxml](http://lxml.de/), [requests](http://docs.python-requests.org/en/master/)
+would need to install [lxml](http://lxml.de/), [requests](http://docs.python-requests.org/en/master/)
 , and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 on your Terminal:
 
