@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-01T14:48:01-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Mining data from an investment stock portal</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Mining data from an investment stock portal" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-01T18:38:02-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -121,7 +121,7 @@ stocks in a list&lt;/p&gt;
 
 &lt;h2 id=&quot;step-5&quot;&gt;Step 5:&lt;/h2&gt;
 &lt;p&gt;The last function is to simply open each link in different tabs using the
-webbrowser library in Python&lt;/p&gt;
+&lt;a href=&quot;https://docs.python.org/2/library/webbrowser.html&quot;&gt;webbrowser&lt;/a&gt; library in Python&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;priceTargetLinks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
@@ -563,7 +563,9 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/5afb058da029a13de73e % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+&lt;noscript&gt;&lt;pre&gt;404: Not Found
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;
 
 &lt;hr /&gt;
 

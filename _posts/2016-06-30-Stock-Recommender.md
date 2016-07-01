@@ -1,5 +1,5 @@
 ---
-title: "Mining data from an investment stock portal"
+title: "Guide to Scrape Data from an Investment Stock Website"
 layout: post
 date: 2016-05-22
 blog: true
@@ -137,7 +137,7 @@ I now have a list of stock names and their corresponding Price Target links
 
 ## Step 5:
 The last function is to simply open each link in different tabs using the
-webbrowser library in Python
+[webbrowser](https://docs.python.org/2/library/webbrowser.html) library in Python
 
 {% highlight python %}
 def openPriceTargetLink():
