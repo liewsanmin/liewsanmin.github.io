@@ -16,7 +16,7 @@ purchasing one. But my monthly research involves repeating the same steps:
 
 To save me the hassle of repeating the same steps I created a Python script and
 be done with the assignment as soon as possible (because I am lazy). For now,
-this script can only do step 1 and step 2. Keep in mind this post are catered
+this script can only do step 1 and step 2. Keep in mind this post is catered
 towards Mac / Ubuntu users.
 
 Unfortunately, i3investor does not have an API but all is well. My approach is
@@ -147,7 +147,7 @@ def openPriceTargetLink():
 {% endhighlight %}
 
 ## Step 6:
-Okay, all I need to do know right know is to call these 3 functions and boom!
+Okay, all I need to do know right now is to call these 3 functions and boom!
 script success, time to research stock = reduced
 {% highlight python %}
 connectAllPriceTarget()

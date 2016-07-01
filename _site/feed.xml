@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-06-30T19:58:41-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Mining data from an investment stock portal</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Mining data from an investment stock portal" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-01T14:48:01-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Mining data from an investment stock portal</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Mining data from an investment stock portal" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -11,7 +11,7 @@ purchasing one. But my monthly research involves repeating the same steps:&lt;/p
 
 &lt;p&gt;To save me the hassle of repeating the same steps I created a Python script and
 be done with the assignment as soon as possible (because I am lazy). For now,
-this script can only do step 1 and step 2. Keep in mind this post are catered
+this script can only do step 1 and step 2. Keep in mind this post is catered
 towards Mac / Ubuntu users.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, i3investor does not have an API but all is well. My approach is
@@ -39,7 +39,7 @@ think it is.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1&quot;&gt;Step 1:&lt;/h2&gt;
 &lt;p&gt;Before you we go into details you
-would need install &lt;a href=&quot;http://lxml.de/&quot;&gt;lxml&lt;/a&gt;, &lt;a href=&quot;http://docs.python-requests.org/en/master/&quot;&gt;requests&lt;/a&gt;
+would need to install &lt;a href=&quot;http://lxml.de/&quot;&gt;lxml&lt;/a&gt;, &lt;a href=&quot;http://docs.python-requests.org/en/master/&quot;&gt;requests&lt;/a&gt;
 , and &lt;a href=&quot;https://www.crummy.com/software/BeautifulSoup/bs4/doc/&quot;&gt;BeautifulSoup&lt;/a&gt;
 on your Terminal:&lt;/p&gt;
 
@@ -69,7 +69,7 @@ hardcoded it in. The 1st function looks like this&lt;/p&gt;
 
 &lt;h2 id=&quot;step-4&quot;&gt;Step 4:&lt;/h2&gt;
 &lt;p&gt;Once the script is connected to the website. Web scraping begins here. If you
-see the actual page source if this site, it looks ugly. BeautifulSoup does a
+see the actual page source of this site, it looks ugly. BeautifulSoup does a
 good job ‘beautifying’ the html page for your convenience.&lt;/p&gt;
 
 &lt;p&gt;To understand the different tags and to know which one to scrape, I created the
@@ -129,7 +129,7 @@ webbrowser library in Python&lt;/p&gt;
         &lt;span class=&quot;n&quot;&gt;webbrowser&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;autoraise&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;step-6&quot;&gt;Step 6:&lt;/h2&gt;
-&lt;p&gt;Okay, all I need to do know right know is to call these 3 functions and boom!
+&lt;p&gt;Okay, all I need to do know right now is to call these 3 functions and boom!
 script success, time to research stock = reduced&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;connectAllPriceTarget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
@@ -563,9 +563,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/5afb058da029a13de73e % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;noscript&gt;&lt;pre&gt;404: Not Found
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
