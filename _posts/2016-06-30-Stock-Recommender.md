@@ -80,7 +80,7 @@ def connectAllPriceTarget():
 
 ## Step 4:
 Once the script is connected to the website. Web scraping begins here. If you
-see the actual page source if this site, it looks ugly. BeautifulSoup does a
+see the actual page source of this site, it looks ugly. BeautifulSoup does a
 good job 'beautifying' the html page for your convenience.
 
 To understand the different tags and to know which one to scrape, I created the
