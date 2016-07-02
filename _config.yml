@@ -6,8 +6,8 @@ bio: 'Your friendly Computer Engineer'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://localhost:4000/
-url: http://liewsanmin.github.io
+url: http://localhost:4000/
+# url: http://liewsanmin.github.io
 
 
 permalink: /:title/
@@ -46,10 +46,10 @@ resume: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: false
+show-tags: true
 
 # related posts inside a post?
-related: false
+related: true
 
 # do you want some animations?
 animation: true

@@ -6,7 +6,6 @@ tag:
 - markdown
 - elements
 blog: false
-star: true
 ---
 
 ## Summary:

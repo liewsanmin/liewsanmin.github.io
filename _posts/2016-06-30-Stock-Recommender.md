@@ -3,6 +3,8 @@ title: "Guide to Scrape Data from an Investment Stock Website"
 layout: post
 date: 2016-05-22
 blog: true
+tag:
+- webscraping
 ---
 
 In order to understand the stock market, my elder brother Anthony gives me

@@ -2,9 +2,9 @@
 title: "3 Days in Chicago"
 layout: post
 date: 2016-05-22
-<!--tag:
-- markdown
-- elements-->
+tag:
+- Chicago
+- road trip
 blog: true
 ---
 
