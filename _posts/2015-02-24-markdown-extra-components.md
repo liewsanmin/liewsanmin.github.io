@@ -2,10 +2,10 @@
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
-tag:
+<!-- tag:
 - markdown
 - components
-- extra
+- extra -->
 blog: false
 ---
 

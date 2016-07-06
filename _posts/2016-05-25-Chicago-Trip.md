@@ -3,7 +3,7 @@ title: "3 Days in Chicago"
 layout: post
 date: 2016-05-22
 tag:
-- Chicago
+- chicago
 - road trip
 blog: true
 ---

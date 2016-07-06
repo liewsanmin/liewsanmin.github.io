@@ -1,15 +1,22 @@
 [
   
     {
+      "title"    : "3 Benefits why Solar Vehicle Project is Good for You",
+      "tags"     : "solar vehicle project, altium, c programming, microcontroller, and soldering",
+      "url"      : "/student-organization-benefits/",
+      "date"     : "05 Jul 2016"
+    } ,
+  
+    {
       "title"    : "Guide to Scrape Data from an Investment Stock Website",
-      "tags"     : "webscraping",
+      "tags"     : "webscraping and stock investment",
       "url"      : "/Stock-Recommender/",
-      "date"     : "22 May 2016"
+      "date"     : "30 Jun 2016"
     } ,
   
     {
       "title"    : "3 Days in Chicago",
-      "tags"     : "Chicago and road trip",
+      "tags"     : "chicago and road trip",
       "url"      : "/Chicago-Trip/",
       "date"     : "22 May 2016"
     } ,
@@ -23,21 +30,21 @@
   
     {
       "title"    : "Hello! Welcome to my site",
-      "tags"     : "markdown and elements",
+      "tags"     : "",
       "url"      : "/markdown-common-elements/",
       "date"     : "13 Apr 2016"
     } ,
   
     {
       "title"    : "Markdown Extra Components",
-      "tags"     : "markdown, components, and extra",
+      "tags"     : "",
       "url"      : "/markdown-extra-components/",
       "date"     : "24 Feb 2016"
     } ,
   
     {
       "title"    : "Indigo, minimalist jekyll theme",
-      "tags"     : "jekyll",
+      "tags"     : "",
       "url"      : "/indigo-jekyll-theme/",
       "date"     : "23 Jan 2016"
     } 

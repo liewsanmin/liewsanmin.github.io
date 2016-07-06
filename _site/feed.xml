@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-02T15:22:29-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-05T22:19:53-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>3 Benefits why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//student-organization-benefits/" rel="alternate" type="text/html" title="3 Benefits why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//student-organization-benefits</id><content type="html" xml:base="http://localhost:4000//student-organization-benefits/">&lt;p&gt;I have joined many student led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;University&lt;/a&gt;
+but my presence don’t last for at most 2 weeks and I’m out. From laziness to low self esteem,
+the excuses are endless. In January 2016, I decided to get my crap together and
+commit myself to participating &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;All the advice about how joining student clubs will benefit you are TRUE. 6
+months later, I am experiencing these benefits first hand and I’d like to share
+them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note : These benefits are specifically tailored towards engineering students
+in particular&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gain-new-technical-skills&quot;&gt;1. Gain new technical skills&lt;/h2&gt;
+&lt;p&gt;In these past 6 months I have to admit that I have gained a fair amount of
+skills. I volunteered to work on creating a secondary pack from scratch for the
+Solar Car. The use of the board is to essentially aid to kickstart the car for
+&lt;a href=&quot;http://americansolarchallenge.org/the-competition/ascfsgp-2016/&quot;&gt;ASC 2016&lt;/a&gt;.
+To do that I would have do the following things to make it happen
+(in general) :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Understand how battery, charger works&lt;/li&gt;
+  &lt;li&gt;Design circuit board&lt;/li&gt;
+  &lt;li&gt;Research and choose electrical components for the board&lt;/li&gt;
+  &lt;li&gt;Soldering&lt;/li&gt;
+  &lt;li&gt;Programming the board&lt;/li&gt;
+  &lt;li&gt;Lots of testing and debugging&lt;/li&gt;
+  &lt;li&gt;You get the idea&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I have learned how to design a circuit board using &lt;a href=&quot;http://www.altium.com/&quot;&gt;Altium&lt;/a&gt; from scratch, solder, program the
+&lt;a href=&quot;http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580&quot;&gt;STM32L4&lt;/a&gt; microcontroller and many more.&lt;/p&gt;
+
+&lt;p&gt;This project really takes a lot of effort but it is worth every second of it. To
+illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/src/images/pcb1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;em&gt;Circuit board before soldering all the components&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/src/images/pcb2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;em&gt;Done!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;meet-like-minded-peers&quot;&gt;2. Meet like minded peers&lt;/h2&gt;
+&lt;p&gt;Not only you’ll meet peers who are like minded. Many of them can also teach you
+valuable skills. The next time you have a question or hit a roadblock? They are
+there for you!&lt;/p&gt;
+
+&lt;h2 id=&quot;opportunity-to-deliver-presentations&quot;&gt;3. Opportunity to deliver presentations&lt;/h2&gt;
+&lt;p&gt;We have different subsystems in our Electrical Team. And each one needs to give
+several presentations (Design Review, Schematic Design Review etc) before the
+circuit board is ordered. I like this idea because it is very structured and
+student members are able to ask / comment or even pin point any mistakes I made
+(yea there’s a bunch). I also find this a good chance to brush up my public
+speaking skills.&lt;/p&gt;
+
+&lt;p&gt;So there you go, my top 3 reasons why joining Solar Vehicle Project is good. Till
+the next post.&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>I have joined many student led organizations at my University
+but my presence don’t last for at most 2 weeks and I’m out. From laziness to low self esteem,
+the excuses are endless. In January 2016, I decided to get my crap together and
+commit myself to participating Solar Vehicle Project (SVP).</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -134,7 +193,7 @@ script success, time to research stock = reduced&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;connectAllPriceTarget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;compileStocksAndLinks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><summary>In order to understand the stock market, my elder brother Anthony gives me
+&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><summary>In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//Chicago-Trip/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Chicago-Trip</id><content type="html" xml:base="http://localhost:4000//Chicago-Trip/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
@@ -266,7 +325,7 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
 
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="Chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//1st-blog/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//1st-blog</id><content type="html" xml:base="http://localhost:4000//1st-blog/">&lt;p&gt;Hello Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
+&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//1st-blog/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//1st-blog</id><content type="html" xml:base="http://localhost:4000//1st-blog/">&lt;p&gt;Hello Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
 
 &lt;p&gt;The reason I started this is because I want to share my experience as a student and also to remind myself of the amazing things (be it bad or good) that happened to me so that I can look back at my posts and reflect. Starting this blog has definitely pushed me to learn new knowledge and getting my facts right before even posting them. There are a lot of things going on in my head, sharing my random thoughts and viewpoints is definitely one way to organize them.&lt;/p&gt;
 
@@ -453,7 +512,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;#hamburguer__open&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;fast&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="markdown" /><category term="elements" /><summary>Summary:</summary></entry><entry><title>Markdown Extra Components</title><link href="http://localhost:4000//markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000//markdown-extra-components</id><content type="html" xml:base="http://localhost:4000//markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><summary>Summary:</summary></entry><entry><title>Markdown Extra Components</title><link href="http://localhost:4000//markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000//markdown-extra-components</id><content type="html" xml:base="http://localhost:4000//markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -563,9 +622,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/5afb058da029a13de73e % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;noscript&gt;&lt;pre&gt;404: Not Found
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -601,7 +658,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><category term="markdown" /><category term="components" /><category term="extra" /><summary>Summary:</summary></entry><entry><title>Indigo, minimalist jekyll theme</title><link href="http://localhost:4000//indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000//indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000//indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary>Summary:</summary></entry><entry><title>Indigo, minimalist jekyll theme</title><link href="http://localhost:4000//indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000//indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000//indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
@@ -622,4 +679,4 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><category term="jekyll" /><summary></summary></entry></feed>
+If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><summary></summary></entry></feed>
