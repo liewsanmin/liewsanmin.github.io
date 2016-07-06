@@ -1,5 +1,5 @@
 ---
-title: "3 Benefits why Solar Vehicle Project is Good for You"
+title: "3 Benefits Why Solar Vehicle Project is Good for You"
 layout: post
 date: 2016-07-05
 blog: true
