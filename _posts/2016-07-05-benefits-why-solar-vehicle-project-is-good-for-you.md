@@ -1,5 +1,5 @@
 ---
-title: "3 Benefits Why Solar Vehicle Project is Good for You"
+title: "Benefits Why Solar Vehicle Project is Good for You"
 layout: post
 date: 2016-07-05
 blog: true
@@ -11,10 +11,7 @@ tag:
 - soldering
 ---
 
-I have joined many student led organizations at my [University](http://twin-cities.umn.edu/)
-but my presence don't last for at most 2 weeks and I'm out. From laziness to low self esteem,
-the excuses are endless. In January 2016, I decided to get my crap together and
-commit myself to participating [Solar Vehicle Project (SVP)](http://umnsvp.org/).
+I have joined many student-led organizations at my [University](http://twin-cities.umn.edu/) but my presence doesn't last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and commit myself to participating [Solar Vehicle Project (SVP)](http://umnsvp.org/).
 
 All the advice about how joining student clubs will benefit you are TRUE. 6
 months later, I am experiencing these benefits first hand and I'd like to share
@@ -24,11 +21,11 @@ them.
 in particular*
 
 ## 1. Gain new technical skills
-In these past 6 months I have to admit that I have gained a fair amount of
+In these past 6 months, I have to admit that I have gained a fair amount of
 skills. I volunteered to work on creating a secondary pack from scratch for the
 Solar Car. The use of the board is to essentially aid to kickstart the car for
 [ASC 2016](http://americansolarchallenge.org/the-competition/ascfsgp-2016/).
-To do that I would have do the following things to make it happen
+To do that I would have done the following things to make it happen
 (in general) :
 
 1. Understand how battery, charger works
@@ -40,7 +37,7 @@ To do that I would have do the following things to make it happen
 7. You get the idea
 
 I have learned how to design a circuit board using [Altium](http://www.altium.com/) from scratch, solder, program the
-[STM32L4](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580) microcontroller and many more.
+[STM32L4](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580) microcontroller and much more.
 
 This project really takes a lot of effort but it is worth every second of it. To
 illustrate my effort thus far. Enjoy the pictures below! :)
@@ -51,8 +48,8 @@ illustrate my effort thus far. Enjoy the pictures below! :)
 ![Markdown Image][2]
 *Done!*
 
-## 2. Meet like minded peers
-Not only you'll meet peers who are like minded. Many of them can also teach you
+## 2. Meet like-minded peers
+Not only you'll meet peers who are like-minded. Many of them can also teach you
 valuable skills. The next time you have a question or hit a roadblock? They are
 there for you!
 
@@ -60,13 +57,16 @@ there for you!
 We have different subsystems in our Electrical Team. And each one needs to give
 several presentations (Design Review, Schematic Design Review etc) before the
 circuit board is ordered. I like this idea because it is very structured and
-student members are able to ask / comment or even pin point any mistakes I made
-(yea there's a bunch). I also find this a good chance to brush up my public
+student members are able to ask / comment or even pinpoint any mistakes I made
+(yeah there's a bunch). I also find this a good chance to brush up my public
 speaking skills.
 
 So there you go, my top 3 reasons why joining Solar Vehicle Project is good. Till
 the next post.
 
+## 4. Join the race crew and compete with other solar cars
+Though I personally have not participated any of the [American Solar Challenge (ASC)](http://americansolarchallenge.org/) or [World Solar Challenge (WSC)](https://www.worldsolarchallenge.org/). But this opportunity is really worth
+if you want to find something to do during summer with a feel of cars.
 
 
 [1]: /src/images/pcb1.jpg

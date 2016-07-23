@@ -53,7 +53,7 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
 
 ## 2nd day
 
-  We started our second day around 10am (wanted to wake up earlier though). Had
+  We started our second day around 10am (wanted to wake up earlier, though). Had
   an awesome breakfast buffet before going to our first checkpoint Millennium
   Park.
 
@@ -64,7 +64,7 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
 
   ![Markdown Image][10]
 
-  Just like every other tourists, we took tons of pictures, well my girlfriend
+  Just like every other tourist, we took tons of pictures, well my girlfriend
   did. I am just people watching. I'll let the pictures tell the rest of the
   story from here.
 
@@ -93,8 +93,8 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
 
   Now we are ready to go 360 observation deck and walk along the Magnificient
   Mile (shopping and such). One thing I want to highlight about Chicago drivers,
-  I noticed all of them are in a hurry, as if they are on an important mission
-  to save the world. All of them. Downtown view looks nice though. Good place to
+  I noticed all of them are in a hurry as if they are on an important mission
+  to save the world. All of them. The downtown view looks nice, though. A good place to
   take pictures.
 
   ![Markdown Image][31]
@@ -110,8 +110,7 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
 
   ![Markdown Image][37]
 
-  All right, we finally have a feel of of Chicago downtown. What's that? Energy
-  bar running low? Okay Yelp saved the day again, Silver Spoon Thai Restaurant
+  All right, we finally have a feel of Chicago downtown. What's that? Is energy bar running low? Okay, Yelp saved the day again, Silver Spoon Thai Restaurant
   it is.
 
   ![Markdown Image][40]
@@ -120,7 +119,7 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
 
   ![Markdown Image][43]
 
-  We were suppose to walk along Navy Pier but at this point it was getting
+  We were supposed to walk along Navy Pier but at this point, it was getting
   chilly and it is getting dark. Instead of walking we just drove at Navy Pier
   until the end of the road and went back to the hotel.
 
@@ -137,6 +136,7 @@ My girlfriend and I had a fun getaway on a road trip to Chicago.
   all. I'd say this road trip is pretty well planned and went smoothly. It is a good
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!
+
 
 Photo credits: Nguyen Ngoc Anh
 

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-05T22:19:53-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>3 Benefits why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//student-organization-benefits/" rel="alternate" type="text/html" title="3 Benefits why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//student-organization-benefits</id><content type="html" xml:base="http://localhost:4000//student-organization-benefits/">&lt;p&gt;I have joined many student led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;University&lt;/a&gt;
-but my presence don’t last for at most 2 weeks and I’m out. From laziness to low self esteem,
-the excuses are endless. In January 2016, I decided to get my crap together and
-commit myself to participating &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-07-23T15:02:07-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;University&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and commit myself to participating &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;All the advice about how joining student clubs will benefit you are TRUE. 6
 months later, I am experiencing these benefits first hand and I’d like to share
@@ -11,11 +8,11 @@ them.&lt;/p&gt;
 in particular&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;gain-new-technical-skills&quot;&gt;1. Gain new technical skills&lt;/h2&gt;
-&lt;p&gt;In these past 6 months I have to admit that I have gained a fair amount of
+&lt;p&gt;In these past 6 months, I have to admit that I have gained a fair amount of
 skills. I volunteered to work on creating a secondary pack from scratch for the
 Solar Car. The use of the board is to essentially aid to kickstart the car for
 &lt;a href=&quot;http://americansolarchallenge.org/the-competition/ascfsgp-2016/&quot;&gt;ASC 2016&lt;/a&gt;.
-To do that I would have do the following things to make it happen
+To do that I would have done the following things to make it happen
 (in general) :&lt;/p&gt;
 
 &lt;ol&gt;
@@ -29,7 +26,7 @@ To do that I would have do the following things to make it happen
 &lt;/ol&gt;
 
 &lt;p&gt;I have learned how to design a circuit board using &lt;a href=&quot;http://www.altium.com/&quot;&gt;Altium&lt;/a&gt; from scratch, solder, program the
-&lt;a href=&quot;http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580&quot;&gt;STM32L4&lt;/a&gt; microcontroller and many more.&lt;/p&gt;
+&lt;a href=&quot;http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580&quot;&gt;STM32L4&lt;/a&gt; microcontroller and much more.&lt;/p&gt;
 
 &lt;p&gt;This project really takes a lot of effort but it is worth every second of it. To
 illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
@@ -40,8 +37,8 @@ illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/src/images/pcb2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Done!&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;meet-like-minded-peers&quot;&gt;2. Meet like minded peers&lt;/h2&gt;
-&lt;p&gt;Not only you’ll meet peers who are like minded. Many of them can also teach you
+&lt;h2 id=&quot;meet-like-minded-peers&quot;&gt;2. Meet like-minded peers&lt;/h2&gt;
+&lt;p&gt;Not only you’ll meet peers who are like-minded. Many of them can also teach you
 valuable skills. The next time you have a question or hit a roadblock? They are
 there for you!&lt;/p&gt;
 
@@ -49,15 +46,16 @@ there for you!&lt;/p&gt;
 &lt;p&gt;We have different subsystems in our Electrical Team. And each one needs to give
 several presentations (Design Review, Schematic Design Review etc) before the
 circuit board is ordered. I like this idea because it is very structured and
-student members are able to ask / comment or even pin point any mistakes I made
-(yea there’s a bunch). I also find this a good chance to brush up my public
+student members are able to ask / comment or even pinpoint any mistakes I made
+(yeah there’s a bunch). I also find this a good chance to brush up my public
 speaking skills.&lt;/p&gt;
 
 &lt;p&gt;So there you go, my top 3 reasons why joining Solar Vehicle Project is good. Till
-the next post.&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>I have joined many student led organizations at my University
-but my presence don’t last for at most 2 weeks and I’m out. From laziness to low self esteem,
-the excuses are endless. In January 2016, I decided to get my crap together and
-commit myself to participating Solar Vehicle Project (SVP).</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//Stock-Recommender/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//Stock-Recommender</id><content type="html" xml:base="http://localhost:4000//Stock-Recommender/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
+the next post.&lt;/p&gt;
+
+&lt;h2 id=&quot;join-the-race-crew-and-compete-with-other-solar-cars&quot;&gt;4. Join the race crew and compete with other solar cars&lt;/h2&gt;
+&lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
+if you want to find something to do during summer with a feel of cars.&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>I have joined many student-led organizations at my University but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and commit myself to participating Solar Vehicle Project (SVP).</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -74,7 +72,7 @@ this script can only do step 1 and step 2. Keep in mind this post is catered
 towards Mac / Ubuntu users.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, i3investor does not have an API but all is well. My approach is
-to mine data using &lt;a href=&quot;http://docs.python-guide.org/en/latest/scenarios/scrape/&quot;&gt;webscraping&lt;/a&gt;
+to mine, data using &lt;a href=&quot;http://docs.python-guide.org/en/latest/scenarios/scrape/&quot;&gt;webscraping&lt;/a&gt;
 method.&lt;/p&gt;
 
 &lt;p&gt;First, let’s look at the repeated steps that I have to go through each time.
@@ -84,8 +82,8 @@ If you go the portal, you can see the following table that looks this :&lt;/p&gt
 &lt;em&gt;Screenshot 6/30/2016 from Joshua’s Macbook&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can see there are many stocks to choose from and the ‘Price Call’ tab
-represents what analysts from different professional firms has to say about the
-particular stock. So what I usually do is to open multiple tabs that has ‘BUY’
+represents what analysts from different professional firms have to say about the
+particular stock. So what I usually do is to open multiple tabs that have ‘BUY’
 as the keyword at the ‘Price Call’ tab.&lt;/p&gt;
 
 &lt;p&gt;What my script does is that it connects to the stock portal and opens all stocks
@@ -94,7 +92,7 @@ think it is.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/scrapeImages/scrapeResult.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Sounds easy enough? Good you’re getting there.&lt;/p&gt;
+&lt;p&gt;Sounds easy enough? Good, you’re getting there.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-1&quot;&gt;Step 1:&lt;/h2&gt;
 &lt;p&gt;Before you we go into details you
@@ -116,8 +114,8 @@ module to work.&lt;/p&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;webbrowser&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;step-3&quot;&gt;Step 3:&lt;/h2&gt;
-&lt;p&gt;We then need the script to connect to the portal. I took the actual url and
-hardcoded it in. The 1st function looks like this&lt;/p&gt;
+&lt;p&gt;We then need the script to connect to the portal. I took the actual URL and
+hard coded it in. The 1st function looks like this&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;connectAllPriceTarget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;global&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soup&lt;/span&gt;
@@ -129,7 +127,7 @@ hardcoded it in. The 1st function looks like this&lt;/p&gt;
 &lt;h2 id=&quot;step-4&quot;&gt;Step 4:&lt;/h2&gt;
 &lt;p&gt;Once the script is connected to the website. Web scraping begins here. If you
 see the actual page source of this site, it looks ugly. BeautifulSoup does a
-good job ‘beautifying’ the html page for your convenience.&lt;/p&gt;
+good job ‘beautifying’ the HTML page for your convenience.&lt;/p&gt;
 
 &lt;p&gt;To understand the different tags and to know which one to scrape, I created the
 html page from below :&lt;/p&gt;
@@ -193,10 +191,10 @@ script success, time to research stock = reduced&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;connectAllPriceTarget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;compileStocksAndLinks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><summary>In order to understand the stock market, my elder brother Anthony gives me
+&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
-purchasing one. But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//Chicago-Trip/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//Chicago-Trip</id><content type="html" xml:base="http://localhost:4000//Chicago-Trip/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
+purchasing one. But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
 
@@ -240,7 +238,7 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
 
 &lt;h2 id=&quot;nd-day&quot;&gt;2nd day&lt;/h2&gt;
 
-&lt;p&gt;We started our second day around 10am (wanted to wake up earlier though). Had
+&lt;p&gt;We started our second day around 10am (wanted to wake up earlier, though). Had
   an awesome breakfast buffet before going to our first checkpoint Millennium
   Park.&lt;/p&gt;
 
@@ -251,7 +249,7 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/buffet_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Just like every other tourists, we took tons of pictures, well my girlfriend
+&lt;p&gt;Just like every other tourist, we took tons of pictures, well my girlfriend
   did. I am just people watching. I’ll let the pictures tell the rest of the
   story from here.&lt;/p&gt;
 
@@ -280,8 +278,8 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
 
 &lt;p&gt;Now we are ready to go 360 observation deck and walk along the Magnificient
   Mile (shopping and such). One thing I want to highlight about Chicago drivers,
-  I noticed all of them are in a hurry, as if they are on an important mission
-  to save the world. All of them. Downtown view looks nice though. Good place to
+  I noticed all of them are in a hurry as if they are on an important mission
+  to save the world. All of them. The downtown view looks nice, though. A good place to
   take pictures.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
@@ -297,8 +295,7 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_8.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;All right, we finally have a feel of of Chicago downtown. What’s that? Energy
-  bar running low? Okay Yelp saved the day again, Silver Spoon Thai Restaurant
+&lt;p&gt;All right, we finally have a feel of Chicago downtown. What’s that? Is energy bar running low? Okay, Yelp saved the day again, Silver Spoon Thai Restaurant
   it is.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/thai_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
@@ -307,7 +304,7 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/thai_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We were suppose to walk along Navy Pier but at this point it was getting
+&lt;p&gt;We were supposed to walk along Navy Pier but at this point, it was getting
   chilly and it is getting dark. Instead of walking we just drove at Navy Pier
   until the end of the road and went back to the hotel.&lt;/p&gt;
 
@@ -325,13 +322,13 @@ purchasing one. But my monthly research involves repeating the same steps:</summ
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
 
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//1st-blog/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//1st-blog</id><content type="html" xml:base="http://localhost:4000//1st-blog/">&lt;p&gt;Hello Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
+&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//hello</id><content type="html" xml:base="http://localhost:4000//hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
 
 &lt;p&gt;The reason I started this is because I want to share my experience as a student and also to remind myself of the amazing things (be it bad or good) that happened to me so that I can look back at my posts and reflect. Starting this blog has definitely pushed me to learn new knowledge and getting my facts right before even posting them. There are a lot of things going on in my head, sharing my random thoughts and viewpoints is definitely one way to organize them.&lt;/p&gt;
 
 &lt;p&gt;I’d like to also share as much information as possible to the world of what a normal Computer Engineering student would face if anyone is at all curious from an international student viewpoint living here in the United States. Studying here in the US is definitely challenging but fun at the same time. From the courses that I’ve taken and projects that I am working on (including this one), seeing them all in one place makes me feel better.&lt;/p&gt;
 
-&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry><entry><title>Hello! Welcome to my site</title><link href="http://localhost:4000//markdown-common-elements/" rel="alternate" type="text/html" title="Hello! Welcome to my site" /><published>2016-04-13T11:59:00-05:00</published><updated>2016-04-13T11:59:00-05:00</updated><id>http://localhost:4000//markdown-common-elements</id><content type="html" xml:base="http://localhost:4000//markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry><entry><title>Hello! Welcome to my site</title><link href="http://localhost:4000//markdown-common-elements/" rel="alternate" type="text/html" title="Hello! Welcome to my site" /><published>2016-04-13T11:59:00-05:00</published><updated>2016-04-13T11:59:00-05:00</updated><id>http://localhost:4000//markdown-common-elements</id><content type="html" xml:base="http://localhost:4000//markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as many items to see how to apply in markdown.&lt;/p&gt;
 
@@ -622,7 +619,9 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/5afb058da029a13de73e % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+&lt;noscript&gt;&lt;pre&gt;404: Not Found
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/sergiokopplin/5afb058da029a13de73e.js&quot;&gt; &lt;/script&gt;
 
 &lt;hr /&gt;
 
