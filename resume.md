@@ -44,7 +44,7 @@ permalink: /resume/
 <h1>Work Experience</h1>
 
 <h2>Computer Engineer Co-op, Turck Inc, Plymouth, Minnesota,
-June 2016 – Dec. 2011</h2>
+June 2016 – Present</h2>
 <ul class="work-list">
 	<li>Designed circuit boards and modify electronic circuits</li>
 	<li>Written and modified code in C# applications</li>
@@ -52,7 +52,7 @@ June 2016 – Dec. 2011</h2>
 </ul>
 
 <h2>Office Assistant, M & E Engineering Consultant Company, Kuala Lumpur,
-Malaysia July 2011 – Present</h2>
+Malaysia July 2011 – Dec 2011</h2>
 <ul class="work-list">
 	<li>Estimated quantities, measurements, and cost for air - conditioning
 	blueprints before due dates</li>
