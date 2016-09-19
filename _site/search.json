@@ -1,6 +1,20 @@
 [
   
     {
+      "title"    : "Guide to building a Smart Lamp",
+      "tags"     : "C, Photon Microcontroller, and Led",
+      "url"      : "/Smart-Light-Project/",
+      "date"     : "05 Sep 2016"
+    } ,
+  
+    {
+      "title"    : "Experience Working as a CoOp",
+      "tags"     : "Industrial Automation, PCB, Microcontroller, Color Sensor, Eagle, LPKF Milling Machine, LabView, I2C, and Coop",
+      "url"      : "/benefits-working-as-a-coop/",
+      "date"     : "24 Aug 2016"
+    } ,
+  
+    {
       "title"    : "Benefits Why Solar Vehicle Project is Good for You",
       "tags"     : "solar vehicle project, altium, c programming, microcontroller, and soldering",
       "url"      : "/benefits-why-solar-vehicle-project-is-good-for-you/",
