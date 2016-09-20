@@ -5,15 +5,18 @@ permalink: /resume/
 ---
 
 <br>
-
 <h1>Resume</h1>
+
+<b>OBJECTIVE</b> : Looking for an internship position during Summer 2017 in a Software, Electrical, or Computer Engineering field
+
+
 
 <!-- Education</p>-->
 <h1>Education</h1>
-<h2>Bachelor of Computer Engineering</h2>
+<h2>Bachelor of Science (BS) Computer Engineering</h2>
 
 <ul class="umn-list">
-	<li>University Of Minnesota - Twin Cities</li>
+	<li>UNIVERSITY OF MINNESOTA (UMN), TWIN CITIES</li>
 	<li>Technical GPA : 3.35</li>
 	<li>Expected May 2018</li>
 </ul>
@@ -29,26 +32,24 @@ permalink: /resume/
 <h1>Skills</h1>
 
 <ul class="skill-list">
-	<li>Programming: Java, C++, Python, Visual Basic, Assembly (PIC24), HTML &
-	CSS, C#, XML, SQL</li>
-	<li>Hardware Design: Verilog, Altium Circuit Board Design</li>
-	<li>Spoken Languages: English, Mandarin, Cantonese, Malay</li>
-	<li>Version Control: Git</li>
-	<li>Documentation: LaTex</li>
-	<li>HTML & CSS</li>
-	<li>OS: Windows, Mac, Linux, UNIX</li>
-	<li>Knowledge: OOP, Data Structures & Algorithm</li>
+	<li>Programming: Java, C++, Python, HTML & CSS, C#, SQL, JavaScript, LabView, Assembly</li>
+	<li>Hardware: Altium, Eagle, Soldering, LPKF milling machine</li>
+	<li>Languages: English, Mandarin, Cantonese, Malay</li>
+	<li>Database: XML, JSON</li>
+	<li>Micros: MicroChip (PIC 24), STM32, Particle (Photon), FTDI (FT232H)</li>
 </ul>
 
 <!-- Work Experience -->
-<h1>Work Experience</h1>
+<h1>Related Work Experience</h1>
 
 <h2>Computer Engineer Co-op, Turck Inc, Plymouth, Minnesota,
 June 2016 – Present</h2>
 <ul class="work-list">
-	<li>Designed circuit boards and modify electronic circuits</li>
-	<li>Written and modified code in C# applications</li>
-	<li>Parsing data from XML files and providing specific parameters for operators in the factory with a barcode scanner</li>
+	<li>Design circuit boards using Eagle CAD and solder them</li>
+	<li>Write and modify code in C# applications with Visual Studio IDE</li>
+	<li>Interface the I2C and FTDI chips with the Color Sensor by transferring data and sending commands</li>
+	<li>Reduce operator’s work time in the factory by creating a program that automates the Rotary Encoder and Temperature Sensor’s manufacturing database in C#</li>
+	<li>Test durability on cables with high voltages of range 1600 – 2000V</li>
 </ul>
 
 <h2>Office Assistant, M & E Engineering Consultant Company, Kuala Lumpur,

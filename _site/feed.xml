@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-09-18T19:40:03-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/"></content><category term="C" /><category term="Photon Microcontroller" /><category term="Led" /><summary></summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-09-19T23:21:54-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
+the usual routine started with complaining the switch being too far away. Then I
+will mimick the ‘spiderman move’ to turn off the switch but that method never works.
+Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
+Googled it, too &lt;a href=&quot;http://www.lifx.com/&quot;&gt;pricey&lt;/a&gt;. Fine, I decided to make one from
+the items I have in my room. I guess this is sort of a guideline to start building
+a smart lamp. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;Items required :
+1. Photon MicroController
+2. Breadboard
+3. Resistors
+4. Capacitors
+5. Wires
+6. Leds&lt;/p&gt;
+
+&lt;p&gt;steps
+- assembling circuit
+- coding
+- testing
+- done
+- see you again!&lt;/p&gt;</content><category term="C" /><category term="Photon Microcontroller" /><category term="Led" /><summary>Few months ago when I was getting ready to bed and wanted to turn off the lights,
+the usual routine started with complaining the switch being too far away. Then I
+will mimick the ‘spiderman move’ to turn off the switch but that method never works.
+Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
+Googled it, too pricey. Fine, I decided to make one from
+the items I have in my room. I guess this is sort of a guideline to start building
+a smart lamp. Enjoy!</summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
 &lt;a href=&quot;http://www.turck.us/en/&quot;&gt;Turck&lt;/a&gt;. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
 am liking the challenge my supervisor gave me and the support they provide.&lt;/p&gt;
