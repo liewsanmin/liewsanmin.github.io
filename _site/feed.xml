@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-09-19T23:23:37-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-10-07T23:03:42-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimick the ‘spiderman move’ to turn off the switch but that method never works.
 Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
@@ -58,10 +58,13 @@ and exposure.&lt;/p&gt;
 &lt;em&gt;Complete and working Color Sensor!&lt;/em&gt;&lt;/p&gt;</content><category term="Industrial Automation" /><category term="PCB" /><category term="Microcontroller" /><category term="Color Sensor" /><category term="Eagle" /><category term="LPKF Milling Machine" /><category term="LabView" /><category term="I2C" /><category term="Coop" /><summary>It’s been almost 3 months and counting since I started working at
 Turck. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
-am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;University&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and commit myself to participating &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
+am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/src/images/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;em&gt;Solar Car - EOS&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;university&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and committed myself to participating the &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;All the advice about how joining student clubs will benefit you are TRUE. 6
-months later, I am experiencing these benefits first hand and I’d like to share
+months later, I experienced these benefits first hand and I’d like to share
 them.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Note : These benefits are specifically tailored towards engineering students
@@ -69,26 +72,25 @@ in particular&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;gain-new-technical-skills&quot;&gt;1. Gain new technical skills&lt;/h2&gt;
 &lt;p&gt;In these past 6 months, I have to admit that I have gained a fair amount of
-skills. I volunteered to work on creating a secondary pack from scratch for the
-Solar Car. The use of the board is to essentially aid to kickstart the car for
+skills. I volunteered to work on creating a secondary pack circuit board from
+scratch for the solar Car. The use of the circuit board is to essentially aid to kickstart the car for
 &lt;a href=&quot;http://americansolarchallenge.org/the-competition/ascfsgp-2016/&quot;&gt;ASC 2016&lt;/a&gt;.
 To do that I would have done the following things to make it happen
 (in general) :&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Understand how battery, charger works&lt;/li&gt;
-  &lt;li&gt;Design circuit board&lt;/li&gt;
-  &lt;li&gt;Research and choose electrical components for the board&lt;/li&gt;
+  &lt;li&gt;Design the circuit board&lt;/li&gt;
+  &lt;li&gt;Research and choose electrical components for the circuit board&lt;/li&gt;
   &lt;li&gt;Soldering&lt;/li&gt;
-  &lt;li&gt;Programming the board&lt;/li&gt;
+  &lt;li&gt;Programming the circuit board&lt;/li&gt;
   &lt;li&gt;Lots of testing and debugging&lt;/li&gt;
-  &lt;li&gt;You get the idea&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;I have learned how to design a circuit board using &lt;a href=&quot;http://www.altium.com/&quot;&gt;Altium&lt;/a&gt; from scratch, solder, program the
 &lt;a href=&quot;http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32l4-series.html?querycriteria=productId=SS1580&quot;&gt;STM32L4&lt;/a&gt; microcontroller and much more.&lt;/p&gt;
 
-&lt;p&gt;This project really takes a lot of effort but it is worth every second of it. To
+&lt;p&gt;This project really took a lot of effort but it was worth every second of it. To
 illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/src/images/pcb1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
@@ -98,24 +100,26 @@ illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
 &lt;em&gt;Done!&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;meet-like-minded-peers&quot;&gt;2. Meet like-minded peers&lt;/h2&gt;
-&lt;p&gt;Not only you’ll meet peers who are like-minded. Many of them can also teach you
-valuable skills. The next time you have a question or hit a roadblock? They are
+&lt;p&gt;Many of our like-minded peers can also teach you valuable skills.
+The next time you have a question or hit a roadblock? They are
 there for you!&lt;/p&gt;
 
 &lt;h2 id=&quot;opportunity-to-deliver-presentations&quot;&gt;3. Opportunity to deliver presentations&lt;/h2&gt;
 &lt;p&gt;We have different subsystems in our Electrical Team. And each one needs to give
 several presentations (Design Review, Schematic Design Review etc) before the
-circuit board is ordered. I like this idea because it is very structured and
+circuit board was ordered. I like this idea because it is very structured and
 student members are able to ask / comment or even pinpoint any mistakes I made
 (yeah there’s a bunch). I also find this a good chance to brush up my public
 speaking skills.&lt;/p&gt;
 
-&lt;p&gt;So there you go, my top 3 reasons why joining Solar Vehicle Project is good. Till
+&lt;p&gt;So there you go, my top 3 reasons why joining SVP is good. Till
 the next post.&lt;/p&gt;
 
 &lt;h2 id=&quot;join-the-race-crew-and-compete-with-other-solar-cars&quot;&gt;4. Join the race crew and compete with other solar cars&lt;/h2&gt;
 &lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
-if you want to find something to do during summer with a feel of cars.&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>I have joined many student-led organizations at my University but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and commit myself to participating Solar Vehicle Project (SVP).</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
+if you want to find something to do during summer with a feel of cars.&lt;/p&gt;
+
+&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
 monthly assignments to research the stock market in Malaysia. And I have to
 report 2 to 3 stocks and give legit reasons why I chose them before
 purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
