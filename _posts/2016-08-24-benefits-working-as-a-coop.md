@@ -47,5 +47,5 @@ and exposure.
 ![Markdown Image][2]
 *Complete and working Color Sensor!*
 
-[1]: /src/coopImages/millingMachine.jpg
-[2]: /src/coopImages/pcb.jpg
+[1]: /coopImages/millingMachine.jpg
+[2]: /coopImages/pcb.jpg
