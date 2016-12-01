@@ -9,34 +9,38 @@ tag:
 - python
 ---
 
-In order to understand the stock market, my elder brother Anthony gives me
-monthly assignments to research the stock market in Malaysia. And I have to
-report 2 to 3 stocks and give legit reasons why I chose them before
-purchasing one. But my monthly research involves repeating the same steps:
+To understand the stock market, my elder brother Anthony gives me monthly
+assignments to research the stock exchange in Malaysia. And I have to report
+2 to 3 stocks and give legit reasons why I chose them before purchasing one.
+But my monthly research involves repeating the same steps:
+
 
 1. Go to the [stock investment portal](http://klse.i3investor.com/jsp/pt.jsp)
 2. Open multiple links that analyst recommends to buy
 3. Compile a list of quality stocks with good reasons
 
 To save me the hassle of repeating the same steps I created a Python script and
-be done with the assignment as soon as possible (because I am lazy). For now,
-this script can only do step 1 and step 2. Keep in mind this post is catered
-towards Mac / Ubuntu users.
+ be done with the assignment as soon as possible (because I am lazy). For now,
+  this script can only do step 1 and step 2. Keep in mind this post is catered
+  towards Mac / Ubuntu users.
 
-Unfortunately, i3investor does not have an API but all is well. My approach is
-to mine, data using [webscraping](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+
+Unfortunately, i3investor does not have an API, but all is well. My approach is
+to mine,  data using [webscraping](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 method.
 
-First, let's look at the repeated steps that I have to go through each time.
-If you go the portal, you can see the following table that looks this :
+First, let’s look at the repeated steps that I have to go through each time. If
+you go the portal, you can see the following table that looks this:
+
 
 ![Markdown Image][1]
 *Screenshot 6/30/2016 from Joshua's Macbook*
 
-As you can see there are many stocks to choose from and the 'Price Call' tab
-represents what analysts from different professional firms have to say about the
-particular stock. So what I usually do is to open multiple tabs that have 'BUY'
-as the keyword at the 'Price Call' tab.
+As you know, there are many stocks to choose from and the ‘Price Call' tab
+represents what analysts from different professional firms have to say about
+the particular stock. So what I usually do is to open multiple tabs that have
+‘BUY' as the keyword at the ‘Price Call' tab.
+
 
 What my script does is that it connects to the stock portal and opens all stocks
 that the analyst says 'BUY' in different tabs. The result looks like what you
@@ -83,9 +87,9 @@ def connectAllPriceTarget():
 {% endhighlight %}
 
 ## Step 4:
-Once the script is connected to the website. Web scraping begins here. If you
+Once the script is connected to the website, web scraping begins here. If you
 see the actual page source of this site, it looks ugly. BeautifulSoup does a
-good job 'beautifying' the HTML page for your convenience.
+good job ‘beautifying' the HTML page for your convenience
 
 To understand the different tags and to know which one to scrape, I created the
 html page from below :

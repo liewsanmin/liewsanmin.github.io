@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-10-07T23:03:42-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-11-30T23:20:45-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimick the ‘spiderman move’ to turn off the switch but that method never works.
 Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
@@ -51,10 +51,10 @@ and even massage services for you to de-stress.&lt;/p&gt;
 &lt;p&gt;From LabView to C#. Working here as a co-op has left a huge impact on me in terms of skills
 and exposure.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/src/coopImages/millingMachine.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/coopImages/millingMachine.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Milling machine to mill the circuit board&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/src/coopImages/pcb.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/coopImages/pcb.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Complete and working Color Sensor!&lt;/em&gt;&lt;/p&gt;</content><category term="Industrial Automation" /><category term="PCB" /><category term="Microcontroller" /><category term="Color Sensor" /><category term="Eagle" /><category term="LPKF Milling Machine" /><category term="LabView" /><category term="I2C" /><category term="Coop" /><summary>It’s been almost 3 months and counting since I started working at
 Turck. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
@@ -119,10 +119,10 @@ the next post.&lt;/p&gt;
 &lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
 if you want to find something to do during summer with a feel of cars.&lt;/p&gt;
 
-&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;In order to understand the stock market, my elder brother Anthony gives me
-monthly assignments to research the stock market in Malaysia. And I have to
-report 2 to 3 stocks and give legit reasons why I chose them before
-purchasing one. But my monthly research involves repeating the same steps:&lt;/p&gt;
+&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
+assignments to research the stock exchange in Malaysia. And I have to report
+2 to 3 stocks and give legit reasons why I chose them before purchasing one.
+But my monthly research involves repeating the same steps:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Go to the &lt;a href=&quot;http://klse.i3investor.com/jsp/pt.jsp&quot;&gt;stock investment portal&lt;/a&gt;&lt;/li&gt;
@@ -131,24 +131,24 @@ purchasing one. But my monthly research involves repeating the same steps:&lt;/p
 &lt;/ol&gt;
 
 &lt;p&gt;To save me the hassle of repeating the same steps I created a Python script and
-be done with the assignment as soon as possible (because I am lazy). For now,
-this script can only do step 1 and step 2. Keep in mind this post is catered
-towards Mac / Ubuntu users.&lt;/p&gt;
+ be done with the assignment as soon as possible (because I am lazy). For now,
+  this script can only do step 1 and step 2. Keep in mind this post is catered
+  towards Mac / Ubuntu users.&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, i3investor does not have an API but all is well. My approach is
-to mine, data using &lt;a href=&quot;http://docs.python-guide.org/en/latest/scenarios/scrape/&quot;&gt;webscraping&lt;/a&gt;
+&lt;p&gt;Unfortunately, i3investor does not have an API, but all is well. My approach is
+to mine,  data using &lt;a href=&quot;http://docs.python-guide.org/en/latest/scenarios/scrape/&quot;&gt;webscraping&lt;/a&gt;
 method.&lt;/p&gt;
 
-&lt;p&gt;First, let’s look at the repeated steps that I have to go through each time.
-If you go the portal, you can see the following table that looks this :&lt;/p&gt;
+&lt;p&gt;First, let’s look at the repeated steps that I have to go through each time. If
+you go the portal, you can see the following table that looks this:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/scrapeImages/allPriceTarget.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Screenshot 6/30/2016 from Joshua’s Macbook&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;As you can see there are many stocks to choose from and the ‘Price Call’ tab
-represents what analysts from different professional firms have to say about the
-particular stock. So what I usually do is to open multiple tabs that have ‘BUY’
-as the keyword at the ‘Price Call’ tab.&lt;/p&gt;
+&lt;p&gt;As you know, there are many stocks to choose from and the ‘Price Call’ tab
+represents what analysts from different professional firms have to say about
+the particular stock. So what I usually do is to open multiple tabs that have
+‘BUY’ as the keyword at the ‘Price Call’ tab.&lt;/p&gt;
 
 &lt;p&gt;What my script does is that it connects to the stock portal and opens all stocks
 that the analyst says ‘BUY’ in different tabs. The result looks like what you
@@ -189,9 +189,9 @@ hard coded it in. The 1st function looks like this&lt;/p&gt;
     &lt;span class=&quot;n&quot;&gt;soup&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BeautifulSoup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;#beautify the html page&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;step-4&quot;&gt;Step 4:&lt;/h2&gt;
-&lt;p&gt;Once the script is connected to the website. Web scraping begins here. If you
+&lt;p&gt;Once the script is connected to the website, web scraping begins here. If you
 see the actual page source of this site, it looks ugly. BeautifulSoup does a
-good job ‘beautifying’ the HTML page for your convenience.&lt;/p&gt;
+good job ‘beautifying’ the HTML page for your convenience&lt;/p&gt;
 
 &lt;p&gt;To understand the different tags and to know which one to scrape, I created the
 html page from below :&lt;/p&gt;
@@ -255,10 +255,10 @@ script success, time to research stock = reduced&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;connectAllPriceTarget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;compileStocksAndLinks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>In order to understand the stock market, my elder brother Anthony gives me
-monthly assignments to research the stock market in Malaysia. And I have to
-report 2 to 3 stocks and give legit reasons why I chose them before
-purchasing one. But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
+&lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>To understand the stock market, my elder brother Anthony gives me monthly
+assignments to research the stock exchange in Malaysia. And I have to report
+2 to 3 stocks and give legit reasons why I chose them before purchasing one.
+But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
 
