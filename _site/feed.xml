@@ -1,31 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-11-30T23:20:45-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Guide to building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Guide to building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;Few months ago when I was getting ready to bed and wanted to turn off the lights,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-12-04T02:53:39-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project0/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project0</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project0/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
-will mimick the ‘spiderman move’ to turn off the switch but that method never works.
-Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
-Googled it, too &lt;a href=&quot;http://www.lifx.com/&quot;&gt;pricey&lt;/a&gt;. Fine, I decided to make one from
-the items I have in my room. I guess this is sort of a guideline to start building
-a smart lamp. Enjoy!&lt;/p&gt;
+will mimic the ‘spiderman web shot move’ to turn off the switch, but that
+never works. Until one day it dawned on me, I could buy a lamp that is connected
+to my phone! Googled it, too &lt;a href=&quot;http://www.lifx.com/&quot;&gt;pricey&lt;/a&gt;. Fine, I decided to make one from
+the items I have in my room from my past courses taken at the University.&lt;/p&gt;
 
-&lt;p&gt;Items required :
-1. Photon MicroController
-2. Breadboard
-3. Resistors
-4. Capacitors
-5. Wires
-6. Leds&lt;/p&gt;
+&lt;p&gt;So ever wonder how to build a classic smart lamp? Continue reading to find out!&lt;/p&gt;
 
-&lt;p&gt;steps
-- assembling circuit
-- coding
-- testing
-- done
-- see you again!&lt;/p&gt;</content><category term="C" /><category term="Photon Microcontroller" /><category term="Led" /><summary>Few months ago when I was getting ready to bed and wanted to turn off the lights,
+&lt;p&gt;Items required:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.particle.io/#photon&quot;&gt;Photon MicroController&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Breadboard&quot;&gt;Breadboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Resistor&quot;&gt;300 ohm Resistors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Capacitor&quot;&gt;10 microfarads Capacitors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Jump_wire&quot;&gt;Jumpers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.adafruit.com/products/1938?gclid=CjwKEAiAmo_CBRC9qbGQssjqi28SJABYTgZxbdhb1iwW3GfXefobpdTPjvbHwmncGrqHDkgsBxgIMhoC-oDw_wcB&quot;&gt;Neopixel LEDs for colours&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;assembling-the-circuit&quot;&gt;Assembling the circuit&lt;/h2&gt;
+
+&lt;p&gt;Grab a breadboard and start plugging in the components based on the image shown
+below! Make sure you don’t mess up with the positive and negative terminals. Or
+else you might see some fireworks :D&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/circuitBoardLayout.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/myCircuitBoard.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;em&gt;This is what your circuit board should look like&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-the-photon&quot;&gt;Setting up the Photon&lt;/h2&gt;
+
+&lt;p&gt;I won’t go over the details here, but you should check out their
+&lt;a href=&quot;https://docs.particle.io/guide/getting-started/start/photon/#connect-your-photon&quot;&gt;tutorial&lt;/a&gt;
+on setting up your Photon.&lt;/p&gt;
+
+&lt;h2 id=&quot;coding-the-photon&quot;&gt;Coding the Photon&lt;/h2&gt;
+
+&lt;p&gt;You can clone the &lt;a href=&quot;https://github.com/liewsanmin/smartBulb&quot;&gt;repo&lt;/a&gt; or
+download it. Once you have the code, you can program the microcontroller via the
+&lt;a href=&quot;build.particle.io&quot;&gt;Particle’s&lt;/a&gt; main IDE. The simple explanation of this is that
+they communicate all data via the Cloud :D&lt;/p&gt;
+
+&lt;h2 id=&quot;web-interface&quot;&gt;Web Interface&lt;/h2&gt;
+
+&lt;p&gt;From the html code I uploaded. It will create a simple webpage so that you can
+use it on any wifi connected devices. MAKE SURE your &lt;strong&gt;device ID&lt;/strong&gt; and &lt;strong&gt;access token&lt;/strong&gt;
+in the html code are matched with your device!! You should be able to realize that
+when you follow the tutorial while setting up your Photon microcontroller.&lt;/p&gt;
+
+&lt;p&gt;Go ahead and click the options and click ‘Do It!’. Good work! You built a smart
+light. It is really amazing to see how convenient it is for us to build one as
+technology continues to improve.&lt;/p&gt;</content><category term="C" /><category term="Photon Microcontroller" /><category term="Led" /><category term="HTML" /><summary>A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
-will mimick the ‘spiderman move’ to turn off the switch but that method never works.
-Until one day it dawned on me, I could buy a lamp that is connected to buy phone!
-Googled it, too pricey. Fine, I decided to make one from
-the items I have in my room. I guess this is sort of a guideline to start building
-a smart lamp. Enjoy!</summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
+will mimic the ‘spiderman web shot move’ to turn off the switch, but that
+never works. Until one day it dawned on me, I could buy a lamp that is connected
+to my phone! Googled it, too pricey. Fine, I decided to make one from
+the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
 &lt;a href=&quot;http://www.turck.us/en/&quot;&gt;Turck&lt;/a&gt;. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
 am liking the challenge my supervisor gave me and the support they provide.&lt;/p&gt;
