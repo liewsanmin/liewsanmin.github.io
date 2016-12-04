@@ -1,7 +1,7 @@
 ---
 title: "Building a Smart Lamp"
 layout: post
-date: 2016-09-05
+date: 2016-12-04
 blog: true
 tag:
 - C
