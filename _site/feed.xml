@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-12-04T02:53:39-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project0/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-09-05T00:00:00-05:00</published><updated>2016-09-05T00:00:00-05:00</updated><id>http://localhost:4000//Smart-Light-Project0</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project0/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-12-12T15:08:15-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
@@ -24,7 +24,7 @@ the items I have in my room from my past courses taken at the University.&lt;/p&
 below! Make sure you don’t mess up with the positive and negative terminals. Or
 else you might see some fireworks :D&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/circuitBoardLayout.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/circuitBoardLayout.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/myCircuitBoard.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;em&gt;This is what your circuit board should look like&lt;/em&gt;&lt;/p&gt;
