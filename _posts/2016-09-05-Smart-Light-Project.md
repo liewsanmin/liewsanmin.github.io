@@ -64,5 +64,5 @@ Go ahead and click the options and click 'Do It!'. Good work! You built a smart
 light. It is really amazing to see how convenient it is for us to build one as
 technology continues to improve.
 
-[1]: https://liewsanmin.github.io/images/circuitBoardLayout.png
-[2]: https://liewsanmin.github.io/images/myCircuitBoard.jpg
+[1]: https://liewsanmin.github.io/images/smartLight/circuitBoardLayout.png
+[2]: https://liewsanmin.github.io/images/smartLight/myCircuitBoard.jpg

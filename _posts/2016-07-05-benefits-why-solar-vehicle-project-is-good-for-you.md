@@ -72,6 +72,6 @@ if you want to find something to do during summer with a feel of cars.
 The advantages are endless if you think about it. You get the point!
 
 
-[1]: /src/images/pcb1.jpg
-[2]: /src/images/pcb2.jpg
-[3]: /src/images/solarCar.jpg
+[1]: /images/svpBenefits/pcb1.jpg
+[2]: /images/svpBenefits/pcb2.jpg
+[3]: /images/svpBenefits/solarCar.jpg

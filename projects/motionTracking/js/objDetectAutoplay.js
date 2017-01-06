@@ -31,10 +31,10 @@ var autoplay = function() {
     }
 
     getScripts([
-        '../js-objectdetect/examples/js/compatibility.js',
-        '../js-objectdetect/js/objectdetect.js',
-        '../js-objectdetect/js/objectdetect.handfist.js',
-        '../js-objectdetect/examples/js/jquery.js'],
+        '../js/compatibility.js',
+        '../js/objectdetect.js',
+        '../js/objectdetect.handfist.js',
+        '../js/jquery.js'],
 
         function() {
             var canvas = $('<canvas style="position: fixed; z-index: 1001;top: 10px; right: 10px; opacity: 0.9">').get(0),

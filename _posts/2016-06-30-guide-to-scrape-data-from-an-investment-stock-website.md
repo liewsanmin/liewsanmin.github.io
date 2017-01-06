@@ -163,5 +163,5 @@ compileStocksAndLinks()
 openPriceTargetLink()
 {% endhighlight %}
 
-[1]: https://liewsanmin.github.io/scrapeImages/allPriceTarget.jpg
-[2]: https://liewsanmin.github.io/scrapeImages/scrapeResult.png
+[1]: https://liewsanmin.github.io/images/scrape/allPriceTarget.jpg
+[2]: https://liewsanmin.github.io/images/scrape/scrapeImages/scrapeResult.png
