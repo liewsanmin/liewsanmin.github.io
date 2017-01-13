@@ -1,18 +1,18 @@
 /**
  * @namespace Allows access to webRTC and other features for browsers that are
- * not conforming to the latest standard (yet). Supported Browsers are: 
+ * not conforming to the latest standard (yet). Supported Browsers are:
  * Chrome, Opera and Firefox (soon).
  */
 var compatibility = (function() {
 	var lastTime = 0,
-	
+
 		URL = window.URL || window.webkitURL,
-	
+
 		requestAnimationFrame = function(callback, element) {
 			var requestAnimationFrame =
-				window.requestAnimationFrame		|| 
-				window.webkitRequestAnimationFrame	|| 
-				window.mozRequestAnimationFrame		|| 
+				window.requestAnimationFrame		||
+				window.webkitRequestAnimationFrame	||
+				window.mozRequestAnimationFrame		||
 				window.oRequestAnimationFrame		||
 				function(callback, element) {
 		            var currTime = new Date().getTime();
@@ -23,10 +23,10 @@ var compatibility = (function() {
 		            lastTime = currTime + timeToCall;
 		            return id;
 		        };
-	
+
 			return requestAnimationFrame.call(window, callback, element);
 		},
-		
+
 		getUserMedia = function(options, success, error) {
 			var getUserMedia =
 				window.navigator.getUserMedia ||
@@ -35,7 +35,7 @@ var compatibility = (function() {
 				function(options, success, error) {
 					error();
 				};
-			
+
 			return getUserMedia.call(window.navigator, options, success, error);
 		};
 

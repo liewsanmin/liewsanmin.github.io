@@ -31,7 +31,7 @@ var autoplay = function() {
     }
 
     getScripts([
-        '../js/compatibility.js',
+        '../motionTracking/js/compatibility.js',
         '../js/objectdetect.js',
         '../js/objectdetect.handfist.js',
         '../js/jquery.js'],
