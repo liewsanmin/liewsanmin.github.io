@@ -32,9 +32,9 @@ var autoplay = function() {
 
     getScripts([
         '../motionTracking/js/compatibility.js',
-        '../js/objectdetect.js',
-        '../js/objectdetect.handfist.js',
-        '../js/jquery.js'],
+        '../motionTracking/js/objectdetect.js',
+        '../motionTracking/js/objectdetect.handfist.js',
+        '../motionTracking/js/jquery.js'],
 
         function() {
             var canvas = $('<canvas style="position: fixed; z-index: 1001;top: 10px; right: 10px; opacity: 0.9">').get(0),
