@@ -50,5 +50,5 @@ easily accessible.
 
 
 [1]: https://liewsanmin.github.io/images/motionTracking/ironManHologram.jpg
-[2]: https://liewsanmin.github.io/images/motionTracking/gest
-[3]: https://liewsanmin.github.io/images/motionTracking/objectDetect
+[2]: https://liewsanmin.github.io/images/motionTracking/gest.png
+[3]: https://liewsanmin.github.io/images/motionTracking/objectDetect.png
