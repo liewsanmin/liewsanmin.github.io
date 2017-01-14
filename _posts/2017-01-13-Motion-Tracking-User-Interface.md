@@ -9,8 +9,8 @@ tag:
 - HTML
 ---
 
-![image][2]
-![image][3]
+[![image](https://liewsanmin.github.io/images/motionTracking/gest.png)](https://liewsanmin.github.io/projects/motionTracking/gest.html)
+[![image](https://liewsanmin.github.io/images/motionTracking/objectDetect.png)](https://liewsanmin.github.io/projects/motionTracking/objectDetect.html)
 
 
 Inspired by Iron Man's movie user interface. I decided to start another side
@@ -50,5 +50,3 @@ easily accessible.
 
 
 [1]: https://liewsanmin.github.io/images/motionTracking/ironManHologram.jpg
-[2]: https://liewsanmin.github.io/images/motionTracking/gest.png
-[3]: https://liewsanmin.github.io/images/motionTracking/objectDetect.png
