@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Motion Tracking User Interface",
+      "tags"     : "JavaScript, Motion Tracking UI, and HTML",
+      "url"      : "/Motion-Tracking-User-Interface/",
+      "date"     : "13 Jan 2017"
+    } ,
+  
+    {
       "title"    : "Building a Smart Lamp",
       "tags"     : "C, Photon Microcontroller, Led, and HTML",
       "url"      : "/Smart-Light-Project/",

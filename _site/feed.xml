@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2016-12-12T15:11:36-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2017-01-14T16:27:45+08:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Motion Tracking User Interface</title><link href="http://localhost:4000//Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00+08:00</published><updated>2017-01-13T00:00:00+08:00</updated><id>http://localhost:4000//Motion-Tracking-User-Interface</id><content type="html" xml:base="http://localhost:4000//Motion-Tracking-User-Interface/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/objectDetect&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspired by Iron Man’s movie user interface. I decided to start another side
+project to make something similar. Spending some free time during this one month
+break before Spring semester starts, I have made something similar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/ironManHologram.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;program-explained&quot;&gt;Program Explained&lt;/h2&gt;
+
+&lt;p&gt;There are 2 programs with different libraries I found while browsing. They can
+be found here and here. The first one uses 2 ways to move, WASD or moves your
+hand around the webcam. Currently, this one only tracks left, right, up, and down
+hand swipes. The second one uses WASD to move the ball, and hand fist shape with
+your palm facing towards the camera to stop the ball from moving further.&lt;/p&gt;
+
+&lt;h2 id=&quot;program-background&quot;&gt;Program Background&lt;/h2&gt;
+
+&lt;p&gt;These 2 programs are supported by JavaScript and HTML. The libraries used are
+js-objectdetect and gest.js which I found from GitHub. The 2d-like world is
+created using whitestrom js 3d world creator.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-and-achievements&quot;&gt;Goals and achievements&lt;/h2&gt;
+
+&lt;p&gt;The main goal is to create the exact replica of Iron Man’s cool user interface
+within a month’s time during my Winter break. Well~ I did not achieve this goal
+but I managed to discover state of the art free motion tracking Javascript
+libraries and 3D world creators. I also get to explore the different
+functionalities of Javascript, HTML, as well the convenience of WebGL that is
+easily accessible.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mtschirs/js-objectdetect&quot;&gt;js-objectdetect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hadimichael/gest.js&quot;&gt;gest.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/WhitestormJS/whitestorm.js&quot;&gt;whitestrom.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="JavaScript" /><category term="Motion Tracking UI" /><category term="HTML" /><summary></summary></entry><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00+08:00</published><updated>2016-12-04T00:00:00+08:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
@@ -24,9 +62,9 @@ the items I have in my room from my past courses taken at the University.&lt;/p&
 below! Make sure you don’t mess up with the positive and negative terminals. Or
 else you might see some fireworks :D&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/circuitBoardLayout.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/smartLight/circuitBoardLayout.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/myCircuitBoard.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/smartLight/myCircuitBoard.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;em&gt;This is what your circuit board should look like&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;setting-up-the-photon&quot;&gt;Setting up the Photon&lt;/h2&gt;
@@ -56,7 +94,7 @@ the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
 to my phone! Googled it, too pricey. Fine, I decided to make one from
-the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
+the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp" /><published>2016-08-24T00:00:00+08:00</published><updated>2016-08-24T00:00:00+08:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
 &lt;a href=&quot;http://www.turck.us/en/&quot;&gt;Turck&lt;/a&gt;. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
 am liking the challenge my supervisor gave me and the support they provide.&lt;/p&gt;
@@ -82,14 +120,14 @@ and even massage services for you to de-stress.&lt;/p&gt;
 &lt;p&gt;From LabView to C#. Working here as a co-op has left a huge impact on me in terms of skills
 and exposure.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/coopImages/millingMachine.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/coop/millingMachine.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Milling machine to mill the circuit board&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/coopImages/pcb.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/coop/pcb.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Complete and working Color Sensor!&lt;/em&gt;&lt;/p&gt;</content><category term="Industrial Automation" /><category term="PCB" /><category term="Microcontroller" /><category term="Color Sensor" /><category term="Eagle" /><category term="LPKF Milling Machine" /><category term="LabView" /><category term="I2C" /><category term="Coop" /><summary>It’s been almost 3 months and counting since I started working at
 Turck. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
-am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/src/images/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00+08:00</published><updated>2016-07-05T00:00:00+08:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Solar Car - EOS&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;university&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and committed myself to participating the &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
@@ -124,10 +162,10 @@ To do that I would have done the following things to make it happen
 &lt;p&gt;This project really took a lot of effort but it was worth every second of it. To
 illustrate my effort thus far. Enjoy the pictures below! :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/src/images/pcb1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/pcb1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Circuit board before soldering all the components&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/src/images/pcb2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/pcb2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Done!&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;meet-like-minded-peers&quot;&gt;2. Meet like-minded peers&lt;/h2&gt;
@@ -150,7 +188,7 @@ the next post.&lt;/p&gt;
 &lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
 if you want to find something to do during summer with a feel of cars.&lt;/p&gt;
 
-&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
+&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00+08:00</published><updated>2016-06-30T00:00:00+08:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
 But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -173,7 +211,7 @@ method.&lt;/p&gt;
 &lt;p&gt;First, let’s look at the repeated steps that I have to go through each time. If
 you go the portal, you can see the following table that looks this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/scrapeImages/allPriceTarget.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/scrape/allPriceTarget.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Screenshot 6/30/2016 from Joshua’s Macbook&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As you know, there are many stocks to choose from and the ‘Price Call’ tab
@@ -185,7 +223,7 @@ the particular stock. So what I usually do is to open multiple tabs that have
 that the analyst says ‘BUY’ in different tabs. The result looks like what you
 think it is.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/scrapeImages/scrapeResult.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/scrape/scrapeImages/scrapeResult.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sounds easy enough? Good, you’re getting there.&lt;/p&gt;
 
@@ -289,7 +327,7 @@ script success, time to research stock = reduced&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
-But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
+But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00+08:00</published><updated>2016-05-22T00:00:00+08:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
 
@@ -305,13 +343,13 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   on my own and it will be troublesome to fix my car if it gets down to that.
   Anyway, look how beautiful it is from the inside!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/car_trip_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;Mickey and Minnie joining the fun!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/car_trip_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Dem Harley Davidson&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/car_trip_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Halo~&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;After about 6 hours of drive and settling at Sheraton Hotel (yes, it is
@@ -321,12 +359,12 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   restaurant. The meal was like a mini celebration for us for arriving Chicago,
   the waitress even helped us to cook our meal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/bbq_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;yummy~&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/bbq_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/bbq_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first day was awesome so far, I recommend using hotwire, yelp, and Google
   Maps when planning for road trips.&lt;/p&gt;
@@ -337,21 +375,21 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   an awesome breakfast buffet before going to our first checkpoint Millennium
   Park.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/buffet_1.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_1.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/buffet_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;Omelet, too good&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/buffet_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Just like every other tourist, we took tons of pictures, well my girlfriend
   did. I am just people watching. I’ll let the pictures tell the rest of the
   story from here.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/m_park_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/m_park_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;The infamous 360 tower&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/m_park_11.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/m_park_11.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Continuing our planned trip, we decided to go and have lunch at Chinatown.
   The one in Chicago feels like every other Chinatown I have been to in the US.
@@ -360,15 +398,15 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   Malay cake we ordered, Malaysia’s Malay Cake is wayyyy better than the one
   that is served here.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/chinatown_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/chinatown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/chinatown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/chinatown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/chinatown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;I don’t like this :(&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Now we are ready to go 360 observation deck and walk along the Magnificient
@@ -377,27 +415,27 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   to save the world. All of them. The downtown view looks nice, though. A good place to
   take pictures.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
   &lt;em&gt;Ended up not going up, the view from the bottom is good enough!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_7.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_7.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/downtown_8.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_8.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;All right, we finally have a feel of Chicago downtown. What’s that? Is energy bar running low? Okay, Yelp saved the day again, Silver Spoon Thai Restaurant
   it is.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/thai_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/thai_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/chicago-5-20-images/thai_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We were supposed to walk along Navy Pier but at this point, it was getting
   chilly and it is getting dark. Instead of walking we just drove at Navy Pier
@@ -417,13 +455,13 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
 
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//hello</id><content type="html" xml:base="http://localhost:4000//hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
+&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00+08:00</published><updated>2016-04-15T00:00:00+08:00</updated><id>http://localhost:4000//hello</id><content type="html" xml:base="http://localhost:4000//hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
 
 &lt;p&gt;The reason I started this is because I want to share my experience as a student and also to remind myself of the amazing things (be it bad or good) that happened to me so that I can look back at my posts and reflect. Starting this blog has definitely pushed me to learn new knowledge and getting my facts right before even posting them. There are a lot of things going on in my head, sharing my random thoughts and viewpoints is definitely one way to organize them.&lt;/p&gt;
 
 &lt;p&gt;I’d like to also share as much information as possible to the world of what a normal Computer Engineering student would face if anyone is at all curious from an international student viewpoint living here in the United States. Studying here in the US is definitely challenging but fun at the same time. From the courses that I’ve taken and projects that I am working on (including this one), seeing them all in one place makes me feel better.&lt;/p&gt;
 
-&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry><entry><title>Hello! Welcome to my site</title><link href="http://localhost:4000//markdown-common-elements/" rel="alternate" type="text/html" title="Hello! Welcome to my site" /><published>2016-04-13T11:59:00-05:00</published><updated>2016-04-13T11:59:00-05:00</updated><id>http://localhost:4000//markdown-common-elements</id><content type="html" xml:base="http://localhost:4000//markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry><entry><title>Hello! Welcome to my site</title><link href="http://localhost:4000//markdown-common-elements/" rel="alternate" type="text/html" title="Hello! Welcome to my site" /><published>2016-04-13T11:59:00+08:00</published><updated>2016-04-13T11:59:00+08:00</updated><id>http://localhost:4000//markdown-common-elements</id><content type="html" xml:base="http://localhost:4000//markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as many items to see how to apply in markdown.&lt;/p&gt;
 
@@ -604,7 +642,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;#hamburguer__open&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;fast&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><summary>Summary:</summary></entry><entry><title>Markdown Extra Components</title><link href="http://localhost:4000//markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000//markdown-extra-components</id><content type="html" xml:base="http://localhost:4000//markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><summary>Summary:</summary></entry><entry><title>Markdown Extra Components</title><link href="http://localhost:4000//markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+08:00</published><updated>2016-02-24T22:48:00+08:00</updated><id>http://localhost:4000//markdown-extra-components</id><content type="html" xml:base="http://localhost:4000//markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -752,7 +790,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary>Summary:</summary></entry><entry><title>Indigo, minimalist jekyll theme</title><link href="http://localhost:4000//indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000//indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000//indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary>Summary:</summary></entry><entry><title>Indigo, minimalist jekyll theme</title><link href="http://localhost:4000//indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00+08:00</published><updated>2016-01-23T22:10:00+08:00</updated><id>http://localhost:4000//indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000//indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
