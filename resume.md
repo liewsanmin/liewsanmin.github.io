@@ -43,7 +43,7 @@ permalink: /resume/
 <h1>Related Work Experience</h1>
 
 
-<h2>Electrical Engineer, Polaris Industries, Wyoming, Minnesota,
+<h2>Electrical Engineering Intern, Polaris Industries, Wyoming, Minnesota,
 May 2017 – Sept 2017</h2>
 <ul class="work-list">
 	<li>Prototyped new lithium ion batteries by mounting them on the back of the Ranger Electric Vehicle (EV)</li>
@@ -56,7 +56,7 @@ May 2017 – Sept 2017</h2>
 
 
 
-<h2>Computer Engineer Co-op, Turck Inc, Plymouth, Minnesota,
+<h2>Computer Engineering Co-op, Turck Inc, Plymouth, Minnesota,
 June 2016 – Present</h2>
 <ul class="work-list">
 	<li>Designed circuit boards using the Eagle CAD and solder them after being created from the milling machine</li>
