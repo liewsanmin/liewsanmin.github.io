@@ -7,7 +7,7 @@ permalink: /resume/
 <br>
 <h1>Resume</h1>
 
-<b>OBJECTIVE</b> : Looking for an internship position during Summer 2017 in a Software, Electrical, or Computer Engineering field
+<b>OBJECTIVE</b> : Looking for a full time position during Summer / Fall 2018 in a Software, Electrical, or Computer Engineering field
 
 
 
@@ -17,7 +17,7 @@ permalink: /resume/
 
 <ul class="umn-list">
 	<li>UNIVERSITY OF MINNESOTA (UMN), TWIN CITIES</li>
-	<li>Technical GPA : 3.35</li>
+	<li>Technical GPA : 3.45</li>
 	<li>Expected May 2018</li>
 </ul>
 
@@ -32,38 +32,52 @@ permalink: /resume/
 <h1>Skills</h1>
 
 <ul class="skill-list">
-	<li>Programming: Java, C++, Python, HTML & CSS, C#, SQL, JavaScript, LabView, Assembly</li>
-	<li>Hardware: Altium, Eagle, Soldering, LPKF milling machine</li>
+	<li>Programming: C | Java | C# | Python | JavaScript</li>
+	<li>Software: Atmel Studio | LabVIEW | MPLABX | CANalyzer | Unity</li>
+	<li>OS: Unix | Linux | Windows</li>
 	<li>Languages: English, Mandarin, Cantonese, Malay</li>
-	<li>Database: XML, JSON</li>
-	<li>Micros: MicroChip (PIC 24), STM32, Particle (Photon), FTDI (FT232H)</li>
+	<li>Electronics: Altium | Eagle | Soldering | PIC | Atmel XMEGA | FTDI FT232H</li>
 </ul>
 
 <!-- Work Experience -->
 <h1>Related Work Experience</h1>
 
+
+<h2>Electrical Engineer, Polaris Industries, Wyoming, Minnesota,
+May 2017 – Sept 2017</h2>
+<ul class="work-list">
+	<li>Prototyped new lithium ion batteries by mounting them on the back of the Ranger Electric Vehicle (EV)</li>
+	<li>Accumulated charge cycles and logged data by accumulating 500 miles on the Ranger EV</li>
+	<li>Analyzed data logged to create a product specification such as the battery capacity for the lithium ion
+	      batteries and present to a senior engineering team of 6</li>
+	<li>Upgraded the Color Sensor project from a plug-in system to a standalone using the Atmel and XMEGA A3BU microchip</li>
+</ul>
+
+
+
+
 <h2>Computer Engineer Co-op, Turck Inc, Plymouth, Minnesota,
 June 2016 – Present</h2>
 <ul class="work-list">
-	<li>Design circuit boards using Eagle CAD and solder them</li>
-	<li>Write and modify code in C# applications with Visual Studio IDE</li>
-	<li>Interface the I2C and FTDI chips with the Color Sensor by transferring data and sending commands</li>
-	<li>Reduce operator’s work time in the factory by creating a program that automates the Rotary Encoder and Temperature Sensor’s manufacturing database in C#</li>
-	<li>Test durability on cables with high voltages of range 1600 – 2000V</li>
-</ul>
-
-<h2>Office Assistant, M & E Engineering Consultant Company, Kuala Lumpur,
-Malaysia July 2011 – Dec 2011</h2>
-<ul class="work-list">
-	<li>Estimated quantities, measurements, and cost for air - conditioning
-	blueprints before due dates</li>
-	<li>Entered data into Excel Spreadsheet from the blueprints to ensure
-	accuracy</li>
-	<li>Prioritized and managed 20 projects with tight deadlines</li>
+	<li>Designed circuit boards using the Eagle CAD and solder them after being created from the milling machine</li>
+	<li>Converted the LabView Color Sensor to a C# supported software to save cost from purchasing more LabViews</li>
+	<li>Interfaced the I2C and FTDI chips with the Color Sensor by transferring data and sending commands</li>
+	<li>Upgraded the Color Sensor project from a plug-in system to a standalone using the Atmel and XMEGA A3BU microchip</li>
+	<li>Reduced operator’s work time in the factory by creating a program that automates the Rotary Encoder and Temperature Sensor’s manufacturing database in C#</li>
 </ul>
 
 <!-- undergraduate research -->
 <h1>Undergraduate Research</h1>
+
+<h2>DHealthcare Speech Recognition (Python), Research, UMN</h2>
+<ul class="research-list">
+	<li>Neural network system that uses speech recognition populate an electronic medical record based on the
+			      conversation between a healthcare provider and a patient</li>
+	<li>Currently using Google’s Speech Recognition API to record the conversation and post-process the data</li>
+</ul>
+
+
+
 <h2>Dynamic Mathematical Display (Python), EDCC, Department of
 Electrical Engineering Nov.2013 - Feb.2014</h2>
 <ul class="research-list">
