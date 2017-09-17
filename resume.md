@@ -69,7 +69,7 @@ June 2016 – Present</h2>
 <!-- undergraduate research -->
 <h1>Undergraduate Research</h1>
 
-<h2>DHealthcare Speech Recognition (Python), Research, UMN</h2>
+<h2>Healthcare Speech Recognition (Python), Research, UMN</h2>
 <ul class="research-list">
 	<li>Neural network system that uses speech recognition populate an electronic medical record based on the
 			      conversation between a healthcare provider and a patient</li>
