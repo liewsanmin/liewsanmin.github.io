@@ -22,8 +22,7 @@ break before Spring semester starts, I have made something similar.
 ## Program Explained
 
 There are 2 programs with different libraries I found while browsing. They can
-be found here and here. The first one uses 2 ways to move, WASD or moves your
-hand around the webcam. Currently, this one only tracks left, right, up, and down
+be found [here](https://liewsanmin.github.io/projects/motionTracking/gest.html) and [here](https://liewsanmin.github.io/projects/motionTracking/objectDetect.html). The first one uses 2 ways to move, WASD or move your hand around the webcam. Currently, this one only tracks left, right, up, and down
 hand swipes. The second one uses WASD to move the ball, and hand fist shape with
 your palm facing towards the camera to stop the ball from moving further.
 
