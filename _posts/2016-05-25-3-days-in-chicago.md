@@ -5,7 +5,7 @@ date: 2016-05-22
 tag:
 - chicago
 - road trip
-blog: true
+blog: false
 ---
 
   ![Image of buffet][1]

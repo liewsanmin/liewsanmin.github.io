@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2017-09-18T23:51:56-05:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Motion Tracking User Interface</title><link href="http://localhost:4000//Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://localhost:4000//Motion-Tracking-User-Interface</id><content type="html" xml:base="http://localhost:4000//Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2017-12-16T23:14:18-06:00</updated><id>http://localhost:4000//</id><title>Joshua S. Min</title><entry><title>Fun Time Working at Polaris</title><link href="http://localhost:4000//fun-times-working-at-polaris/" rel="alternate" type="text/html" title="Fun Time Working at Polaris" /><published>2017-12-16T00:00:00-06:00</published><updated>2017-12-16T00:00:00-06:00</updated><id>http://localhost:4000//fun-times-working-at-polaris</id><content type="html" xml:base="http://localhost:4000//fun-times-working-at-polaris/">&lt;p&gt;&lt;img src=&quot;/images/polaris/1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another summer, another exciting experience! This past summer, I was lucky
+enough to work at Polaris Industries as an Electrical Engineering intern. The
+ powersports industry was definitely a brand new experience transitioning from
+ industrial automation industry (Turck). Though I can’t share much of the
+ products I worked on, some perks of working at a Powersports is definitely the
+ chance to ride an ATV, attend tours, and get hands on experience to state of
+ the art powersports vehicle.&lt;/p&gt;
+
+&lt;p&gt;In the era closing into electric vehicles, Polaris is also not backing out on
+this trend. If you think Polaris is only good for their snowmobile and ATVs, you
+haven’t seen their current electric vehicles on the market. They have some neat
+collection of electric vehicles.&lt;/p&gt;
+
+&lt;p&gt;Working at Polaris is surely great and exhilarating because everyone is so
+passionate and all fired up about what they are working on!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/polaris/2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;/images/polaris/3.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;</content><category term="Powersports" /><category term="Electric Vehicle" /><category term="ATV" /><category term="Intern" /><summary></summary></entry><entry><title>Motion Tracking User Interface</title><link href="http://localhost:4000//Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://localhost:4000//Motion-Tracking-User-Interface</id><content type="html" xml:base="http://localhost:4000//Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/objectDetect.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/objectDetect.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by Iron Man’s movie user interface. I decided to start another side
@@ -789,25 +808,4 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary>Summary:</summary></entry><entry><title>Indigo, minimalist jekyll theme</title><link href="http://localhost:4000//indigo-jekyll-theme/" rel="alternate" type="text/html" title="Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000//indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000//indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><summary></summary></entry></feed>
+&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary>Summary:</summary></entry></feed>
