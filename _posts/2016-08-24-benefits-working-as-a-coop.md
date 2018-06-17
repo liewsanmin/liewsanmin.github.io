@@ -1,5 +1,5 @@
 ---
-title: "Experience Working as a CoOp"
+title: "Experience Working as a CoOp at Turck Inc"
 layout: post
 date: 2016-08-24
 blog: true
