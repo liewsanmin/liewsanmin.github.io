@@ -2,35 +2,44 @@
 title: "How to be in the top 3 at your College Senior Design Project"
 layout: post
 date: 2018-06-17
-blog: false
+blog: true
 tag:
 - Raspberry Pi 3
 - Voice Command
 - Senior Design Project
 ---
 
+Hello! Ever wondered how to get to the top 3 in your senior design project class?
+Here's how:
 
-- Greetings
-- I got top 3
-image of cert here
+## Step 1: Find the project you love
 
-this is my project
-how to get top 3?
-    pure teamwork and effective delegation
+![Markdown Image][1]
 
-describe projects
-    2 parts
-    the audio
+## Step 2: Build rapport with your teammates
 
-pictures of rp3
-code
+![Markdown Image][2]
 
-pictures
+## Step 3: Design, build, debug
 
-tools used
-    - rp3
-    - gaming headset
-    - bluetooth
-    -
-lemme know if you want tutorial and I'll post extras
-fun fun fun
+![Markdown Image][3]
+
+![Markdown Image][4]
+
+## Step 4: Present like a boss
+
+![Markdown Image][5]
+
+## Step 5: Get the prize!
+
+![Markdown Image][6]
+
+If you follow these 5 steps. You will succeed
+
+
+[1]: https://liewsanmin.github.io/images/top3/list.png
+[2]: https://liewsanmin.github.io/images/top3/rapport.jpg
+[3]: https://liewsanmin.github.io/images/top3/design.jpg
+[4]: https://liewsanmin.github.io/images/top3/design1.jpg
+[5]: https://liewsanmin.github.io/images/top3/boss.jpg
+[6]: https://liewsanmin.github.io/images/top3/cert.jpg

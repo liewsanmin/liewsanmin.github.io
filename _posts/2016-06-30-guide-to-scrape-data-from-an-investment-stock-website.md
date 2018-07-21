@@ -164,4 +164,4 @@ openPriceTargetLink()
 {% endhighlight %}
 
 [1]: https://liewsanmin.github.io/images/scrape/allPriceTarget.jpg
-[2]: https://liewsanmin.github.io/images/scrape/scrapeImages/scrapeResult.png
+[2]: https://liewsanmin.github.io/images/scrape/scrapeResult.png
