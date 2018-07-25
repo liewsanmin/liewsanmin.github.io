@@ -8,6 +8,7 @@ tag:
 - Voice Command
 - Senior Design Project
 ---
+![Markdown Image][7]
 
 Hello! Ever wondered how to get to the top 3 in your senior design project class?
 Here's how:
@@ -36,7 +37,7 @@ Here's how:
 
 If you follow these 5 steps. You will succeed
 
-
+[7]: https://liewsanmin.github.io/images/top3/thumbnail.jpg
 [1]: https://liewsanmin.github.io/images/top3/list.png
 [2]: https://liewsanmin.github.io/images/top3/rapport.jpg
 [3]: https://liewsanmin.github.io/images/top3/design.jpg
