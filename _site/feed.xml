@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2018-08-26T18:08:10-05:00</updated><id>http://localhost:4000//</id><title>Joshua Liew</title><entry><title>How to be in the top 3 at your College Senior Design Project</title><link href="http://localhost:4000//how-to-get-top-3/" rel="alternate" type="text/html" title="How to be in the top 3 at your College Senior Design Project" /><published>2018-06-17T00:00:00-05:00</published><updated>2018-06-17T00:00:00-05:00</updated><id>http://localhost:4000//how-to-get-top-3</id><content type="html" xml:base="http://localhost:4000//how-to-get-top-3/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/thumbnail.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://liewsanmin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://liewsanmin.github.io/" rel="alternate" type="text/html"/><updated>2019-01-06T12:41:51-06:00</updated><id>http://liewsanmin.github.io/</id><title>Joshua Liew</title><entry><title>Working in the IoT Industry</title><link href="http://liewsanmin.github.io/working-in-the-iot-industry/" rel="alternate" type="text/html" title="Working in the IoT Industry" /><published>2019-01-06T00:00:00-06:00</published><updated>2019-01-06T00:00:00-06:00</updated><id>http://liewsanmin.github.io/working-in-the-iot-industry</id><content type="html" xml:base="http://liewsanmin.github.io/working-in-the-iot-industry/">&lt;p&gt;Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at Calamp (insert calamp website).&lt;/p&gt;
+
+&lt;p&gt;Benefits&lt;/p&gt;
+
+&lt;p&gt;Enjoy solving an unlimited amount of engineering problems on a day to day basis from small missing import statement to a revamp of a brand new git repository for a firmware client script to a server.&lt;/p&gt;
+
+&lt;p&gt;Travel to places such as California to help with more Research and Development and setting up production lines&lt;/p&gt;
+
+&lt;p&gt;Gadgets, lots of them!&lt;/p&gt;
+
+&lt;p&gt;After 6 months of gruesome (not really) internship, I got transitioned to full time!&lt;/p&gt;
+
+&lt;p&gt;What’s it like working in the IoT industry? It’s like every other company with different product and organization. That’s it. I like the environment, the people, and how the company treats me (mostly compensation lol jk, but am I?).&lt;/p&gt;</content><category term="work" /><summary>Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at Calamp (insert calamp website).</summary></entry><entry><title>How to be in the top 3 at your College Senior Design Project</title><link href="http://liewsanmin.github.io/how-to-get-top-3/" rel="alternate" type="text/html" title="How to be in the top 3 at your College Senior Design Project" /><published>2018-06-17T00:00:00-05:00</published><updated>2018-06-17T00:00:00-05:00</updated><id>http://liewsanmin.github.io/how-to-get-top-3</id><content type="html" xml:base="http://liewsanmin.github.io/how-to-get-top-3/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/thumbnail.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello! Ever wondered how to get to the top 3 in your senior design project class?
 Here’s how:&lt;/p&gt;
@@ -25,7 +37,7 @@ Here’s how:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/cert.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you follow these 5 steps. You will succeed&lt;/p&gt;</content><category term="Raspberry Pi 3" /><category term="Voice Command" /><category term="Senior Design Project" /><summary></summary></entry><entry><title>Fun Time Working at Polaris</title><link href="http://localhost:4000//fun-times-working-at-polaris/" rel="alternate" type="text/html" title="Fun Time Working at Polaris" /><published>2017-12-16T00:00:00-06:00</published><updated>2017-12-16T00:00:00-06:00</updated><id>http://localhost:4000//fun-times-working-at-polaris</id><content type="html" xml:base="http://localhost:4000//fun-times-working-at-polaris/">&lt;p&gt;&lt;img src=&quot;/images/polaris/1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you follow these 5 steps. You will succeed&lt;/p&gt;</content><category term="Raspberry Pi 3" /><category term="Voice Command" /><category term="Senior Design Project" /><summary></summary></entry><entry><title>Fun Time Working at Polaris</title><link href="http://liewsanmin.github.io/fun-times-working-at-polaris/" rel="alternate" type="text/html" title="Fun Time Working at Polaris" /><published>2017-12-16T00:00:00-06:00</published><updated>2017-12-16T00:00:00-06:00</updated><id>http://liewsanmin.github.io/fun-times-working-at-polaris</id><content type="html" xml:base="http://liewsanmin.github.io/fun-times-working-at-polaris/">&lt;p&gt;&lt;img src=&quot;/images/polaris/1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Another summer, another exciting experience! This past summer, I was lucky
 enough to work at Polaris Industries as an Electrical Engineering intern. The
@@ -44,7 +56,7 @@ collection of electric vehicles.&lt;/p&gt;
 passionate and all fired up about what they are working on!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/polaris/2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;/images/polaris/3.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;</content><category term="Powersports" /><category term="Electric Vehicle" /><category term="ATV" /><category term="Intern" /><summary></summary></entry><entry><title>Motion Tracking User Interface</title><link href="http://localhost:4000//Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://localhost:4000//Motion-Tracking-User-Interface</id><content type="html" xml:base="http://localhost:4000//Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+&lt;img src=&quot;/images/polaris/3.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;</content><category term="Powersports" /><category term="Electric Vehicle" /><category term="ATV" /><category term="Intern" /><summary></summary></entry><entry><title>Motion Tracking User Interface</title><link href="http://liewsanmin.github.io/Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://liewsanmin.github.io/Motion-Tracking-User-Interface</id><content type="html" xml:base="http://liewsanmin.github.io/Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/objectDetect.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/objectDetect.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by Iron Man’s movie user interface. I decided to start another side
@@ -81,7 +93,7 @@ easily accessible.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/mtschirs/js-objectdetect&quot;&gt;js-objectdetect&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hadimichael/gest.js&quot;&gt;gest.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/WhitestormJS/whitestorm.js&quot;&gt;whitestrom.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="JavaScript" /><category term="Motion Tracking UI" /><category term="HTML" /><summary></summary></entry><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
+&lt;/ul&gt;</content><category term="JavaScript" /><category term="Motion Tracking UI" /><category term="HTML" /><summary></summary></entry><entry><title>Building a Smart Lamp</title><link href="http://liewsanmin.github.io/Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://liewsanmin.github.io/Smart-Light-Project</id><content type="html" xml:base="http://liewsanmin.github.io/Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
@@ -139,7 +151,7 @@ the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
 to my phone! Googled it, too pricey. Fine, I decided to make one from
-the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp at Turck Inc</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp at Turck Inc" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
+the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp at Turck Inc</title><link href="http://liewsanmin.github.io/benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp at Turck Inc" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://liewsanmin.github.io/benefits-working-as-a-coop</id><content type="html" xml:base="http://liewsanmin.github.io/benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
 &lt;a href=&quot;http://www.turck.us/en/&quot;&gt;Turck&lt;/a&gt;. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
 am liking the challenge my supervisor gave me and the support they provide.&lt;/p&gt;
@@ -172,7 +184,7 @@ and exposure.&lt;/p&gt;
 &lt;em&gt;Complete and working Color Sensor!&lt;/em&gt;&lt;/p&gt;</content><category term="Industrial Automation" /><category term="PCB" /><category term="Microcontroller" /><category term="Color Sensor" /><category term="Eagle" /><category term="LPKF Milling Machine" /><category term="LabView" /><category term="I2C" /><category term="Coop" /><summary>It’s been almost 3 months and counting since I started working at
 Turck. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
-am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Solar Car - EOS&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;university&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and committed myself to participating the &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
@@ -233,7 +245,7 @@ the next post.&lt;/p&gt;
 &lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
 if you want to find something to do during summer with a feel of cars.&lt;/p&gt;
 
-&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
+&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
 But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -372,7 +384,7 @@ script success, time to research stock = reduced&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
-But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
+But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://liewsanmin.github.io/3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://liewsanmin.github.io/3-days-in-chicago</id><content type="html" xml:base="http://liewsanmin.github.io/3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
 
@@ -500,191 +512,10 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
 
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://localhost:4000//hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://localhost:4000//hello</id><content type="html" xml:base="http://localhost:4000//hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
+&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://liewsanmin.github.io/hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://liewsanmin.github.io/hello</id><content type="html" xml:base="http://liewsanmin.github.io/hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
 
 &lt;p&gt;The reason I started this is because I want to share my experience as a student and also to remind myself of the amazing things (be it bad or good) that happened to me so that I can look back at my posts and reflect. Starting this blog has definitely pushed me to learn new knowledge and getting my facts right before even posting them. There are a lot of things going on in my head, sharing my random thoughts and viewpoints is definitely one way to organize them.&lt;/p&gt;
 
 &lt;p&gt;I’d like to also share as much information as possible to the world of what a normal Computer Engineering student would face if anyone is at all curious from an international student viewpoint living here in the United States. Studying here in the US is definitely challenging but fun at the same time. From the courses that I’ve taken and projects that I am working on (including this one), seeing them all in one place makes me feel better.&lt;/p&gt;
 
-&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry><entry><title>Hello! Welcome to my site</title><link href="http://localhost:4000//markdown-common-elements/" rel="alternate" type="text/html" title="Hello! Welcome to my site" /><published>2016-04-13T11:59:00-05:00</published><updated>2016-04-13T11:59:00-05:00</updated><id>http://localhost:4000//markdown-common-elements</id><content type="html" xml:base="http://localhost:4000//markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
-
-&lt;p&gt;You can pick as many items to see how to apply in markdown.&lt;/p&gt;
-
-&lt;h3 id=&quot;comum-elements&quot;&gt;Comum Elements&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#basic-formatting&quot;&gt;Basic formatting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#headings&quot;&gt;Headings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#paragraph-modifiers&quot;&gt;Paragraph Modifiers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#urls&quot;&gt;Urls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#horizontal-rule&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And that’s how to do it.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
-
-&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
-
-&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
-
-&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
-
-&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
-## Heading
-### Heading
-#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;A second item&lt;/li&gt;
-  &lt;li&gt;Number 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
-2. A second item
-3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An item&lt;/li&gt;
-  &lt;li&gt;Another item&lt;/li&gt;
-  &lt;li&gt;Yet another item&lt;/li&gt;
-  &lt;li&gt;And there’s more…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
-* Another item
-* Yet another item
-* And there&#39;s more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
-
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
-
-&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A named link to &lt;a href=&quot;http://www.markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Another named link to &lt;a href=&quot;http://markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;http://markitdown.net/&quot;&gt;http://markitdown.net/&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like &amp;lt;http://markitdown.net/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
-
-&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
-It’s sometimes handy for breaking things up.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
-&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;A HTML Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A CSS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A JS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;show-menu&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;#hamburguer__open&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;fast&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;show-menu&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;#hamburguer__open&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;fast&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><summary>Summary:</summary></entry></feed>
+&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry></feed>
