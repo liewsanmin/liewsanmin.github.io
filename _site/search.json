@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Introducing Automation Tools",
+      "tags"     : "work, gRPC, and telnet",
+      "url"      : "/introducing-automation-tool/",
+      "date"     : "16 Mar 2019"
+    } ,
+  
+    {
       "title"    : "Working in the IoT Industry",
       "tags"     : "work",
       "url"      : "/working-in-the-iot-industry/",

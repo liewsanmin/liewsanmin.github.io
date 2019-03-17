@@ -11,7 +11,7 @@ Graduating from University. 2 weeks after a road trip with familia and bam! The 
 
 ## Benefits
 
-Enjoy solving an unlimited amount of engineering problems on a day to day basis from small missing import statement to a revamp of a brand new git repository for a firmware client script to a server.
+Enjoy solving an unlimited amount of engineering problems on a day to day basis from small missing import statement to revamping a brand new git repository for a firmware client script to a server.
 
 Travel to places such as California to help with more Research and Development and setting up production lines.
 

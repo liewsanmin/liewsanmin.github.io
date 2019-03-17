@@ -1,8 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://liewsanmin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://liewsanmin.github.io/" rel="alternate" type="text/html"/><updated>2019-01-07T22:27:49-06:00</updated><id>http://liewsanmin.github.io/</id><title>Joshua Liew</title><entry><title>Working in the IoT Industry</title><link href="http://liewsanmin.github.io/working-in-the-iot-industry/" rel="alternate" type="text/html" title="Working in the IoT Industry" /><published>2019-01-06T00:00:00-06:00</published><updated>2019-01-06T00:00:00-06:00</updated><id>http://liewsanmin.github.io/working-in-the-iot-industry</id><content type="html" xml:base="http://liewsanmin.github.io/working-in-the-iot-industry/">&lt;p&gt;Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at &lt;a href=&quot;https://www.calamp.com/&quot;&gt;Calamp&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2019-03-16T22:35:56-05:00</updated><id>http://localhost:4000//</id><title>Joshua Liew</title><entry><title>Introducing Automation Tools</title><link href="http://localhost:4000//introducing-automation-tool/" rel="alternate" type="text/html" title="Introducing Automation Tools" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000//introducing-automation-tool</id><content type="html" xml:base="http://localhost:4000//introducing-automation-tool/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/gRPC/gundam.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;em&gt;My favorite Double 00 Raiser, I’m sure this goes through major firmware testing&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the best ways to communicate to say a local server is through telnet and gRPC&lt;/p&gt;
+
+&lt;h2 id=&quot;telnet&quot;&gt;Telnet&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Telnet&quot;&gt;Telnet&lt;/a&gt;, this protocol is still used everywhere in the automation testing industry. Providing bidirectional interactive text-oriented communication facility between the client and the server. You can easily open a &lt;a href=&quot;https://docs.python.org/3.7/library/telnetlib.html&quot;&gt;python telnet connection&lt;/a&gt; and communicate with the server while creating automation scripts in parallel.&lt;/p&gt;
+
+&lt;p&gt;However, since Telnet is only text-based it is more difficult parse information as the results from the server needs additional formatting.&lt;/p&gt;
+
+&lt;h2 id=&quot;introducing-grpc&quot;&gt;Introducing gRPC&lt;/h2&gt;
+
+&lt;p&gt;One of the latest frameworks I use on a daily basis at work is the remote procedure call (RPC) from &lt;a href=&quot;https://grpc.io/&quot;&gt;Google gRPC&lt;/a&gt;. This, my friends, is a major upgrade from command the line interface.&lt;/p&gt;
+
+&lt;p&gt;Now, you can use this framework to define the entire server’s structure. As the client invokes any method (query or command), the responses are in an organized and effective structure and higher level unit testers can easily use this information for quicker verification purposes.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparison---telnet&quot;&gt;Comparison - Telnet&lt;/h2&gt;
+
+&lt;p&gt;Let’s say you’re getting the hardware’s information from telnet it would look like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;tn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;initializeTelnet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;tn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;getunitinfo&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_very_eager&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The ‘result’ is just a plain text form (originally converted from bytes but that’s not the main point):&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+Unit Number: 1234 \r\n
+Serial Number: 5678 \r\n
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;But the value you need while scripting the automation scripts is the actual unit number and serial number.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparison---grpc&quot;&gt;Comparison - gRPC&lt;/h2&gt;
+
+&lt;p&gt;gRPC however does that for you:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ModemManager_Stub&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;clientChannel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;and the ‘result’ is a class where the response from the server is prefilled for you, all you need to do from now on is to access them using dot notation like so:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;unitInfo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;unitInfo&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;serialNumber&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;serialNumber&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Cool eyh?&lt;/p&gt;
+
+&lt;!-- [1]: http://localhost:4000/images/gRPC/gundam.jpg --&gt;</content><category term="work" /><category term="gRPC" /><category term="telnet" /><summary>My favorite Double 00 Raiser, I’m sure this goes through major firmware testing</summary></entry><entry><title>Working in the IoT Industry</title><link href="http://localhost:4000//working-in-the-iot-industry/" rel="alternate" type="text/html" title="Working in the IoT Industry" /><published>2019-01-06T00:00:00-06:00</published><updated>2019-01-06T00:00:00-06:00</updated><id>http://localhost:4000//working-in-the-iot-industry</id><content type="html" xml:base="http://localhost:4000//working-in-the-iot-industry/">&lt;p&gt;Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at &lt;a href=&quot;https://www.calamp.com/&quot;&gt;Calamp&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
 
-&lt;p&gt;Enjoy solving an unlimited amount of engineering problems on a day to day basis from small missing import statement to a revamp of a brand new git repository for a firmware client script to a server.&lt;/p&gt;
+&lt;p&gt;Enjoy solving an unlimited amount of engineering problems on a day to day basis from small missing import statement to revamping a brand new git repository for a firmware client script to a server.&lt;/p&gt;
 
 &lt;p&gt;Travel to places such as California to help with more Research and Development and setting up production lines.&lt;/p&gt;
 
@@ -10,7 +57,7 @@
 
 &lt;p&gt;After 6 months of gruesome (not really) internship, I got transitioned to full time!&lt;/p&gt;
 
-&lt;p&gt;What’s it like working in the IoT industry? It’s like every other company but with different products and organization structure. That’s it. I like the environment, the people, and how the company treats me (mostly compensation lol jk, but am I?).&lt;/p&gt;</content><category term="work" /><summary>Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at Calamp.</summary></entry><entry><title>How to be in the top 3 at your College Senior Design Project</title><link href="http://liewsanmin.github.io/how-to-get-top-3/" rel="alternate" type="text/html" title="How to be in the top 3 at your College Senior Design Project" /><published>2018-06-17T00:00:00-05:00</published><updated>2018-06-17T00:00:00-05:00</updated><id>http://liewsanmin.github.io/how-to-get-top-3</id><content type="html" xml:base="http://liewsanmin.github.io/how-to-get-top-3/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/thumbnail.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;What’s it like working in the IoT industry? It’s like every other company but with different products and organization structure. That’s it. I like the environment, the people, and how the company treats me (mostly compensation lol jk, but am I?).&lt;/p&gt;</content><category term="work" /><summary>Graduating from University. 2 weeks after a road trip with familia and bam! The first day of work as an intern at Calamp.</summary></entry><entry><title>How to be in the top 3 at your College Senior Design Project</title><link href="http://localhost:4000//how-to-get-top-3/" rel="alternate" type="text/html" title="How to be in the top 3 at your College Senior Design Project" /><published>2018-06-17T00:00:00-05:00</published><updated>2018-06-17T00:00:00-05:00</updated><id>http://localhost:4000//how-to-get-top-3</id><content type="html" xml:base="http://localhost:4000//how-to-get-top-3/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/thumbnail.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello! Ever wondered how to get to the top 3 in your senior design project class?
 Here’s how:&lt;/p&gt;
@@ -37,7 +84,7 @@ Here’s how:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/top3/cert.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you follow these 5 steps. You will succeed&lt;/p&gt;</content><category term="Raspberry Pi 3" /><category term="Voice Command" /><category term="Senior Design Project" /><summary></summary></entry><entry><title>Fun Time Working at Polaris</title><link href="http://liewsanmin.github.io/fun-times-working-at-polaris/" rel="alternate" type="text/html" title="Fun Time Working at Polaris" /><published>2017-12-16T00:00:00-06:00</published><updated>2017-12-16T00:00:00-06:00</updated><id>http://liewsanmin.github.io/fun-times-working-at-polaris</id><content type="html" xml:base="http://liewsanmin.github.io/fun-times-working-at-polaris/">&lt;p&gt;&lt;img src=&quot;/images/polaris/1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you follow these 5 steps. You will succeed&lt;/p&gt;</content><category term="Raspberry Pi 3" /><category term="Voice Command" /><category term="Senior Design Project" /><summary></summary></entry><entry><title>Fun Time Working at Polaris</title><link href="http://localhost:4000//fun-times-working-at-polaris/" rel="alternate" type="text/html" title="Fun Time Working at Polaris" /><published>2017-12-16T00:00:00-06:00</published><updated>2017-12-16T00:00:00-06:00</updated><id>http://localhost:4000//fun-times-working-at-polaris</id><content type="html" xml:base="http://localhost:4000//fun-times-working-at-polaris/">&lt;p&gt;&lt;img src=&quot;/images/polaris/1.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Another summer, another exciting experience! This past summer, I was lucky
 enough to work at Polaris Industries as an Electrical Engineering intern. The
@@ -56,7 +103,7 @@ collection of electric vehicles.&lt;/p&gt;
 passionate and all fired up about what they are working on!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/polaris/2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;/images/polaris/3.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;</content><category term="Powersports" /><category term="Electric Vehicle" /><category term="ATV" /><category term="Intern" /><summary></summary></entry><entry><title>Motion Tracking User Interface</title><link href="http://liewsanmin.github.io/Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://liewsanmin.github.io/Motion-Tracking-User-Interface</id><content type="html" xml:base="http://liewsanmin.github.io/Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+&lt;img src=&quot;/images/polaris/3.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;</content><category term="Powersports" /><category term="Electric Vehicle" /><category term="ATV" /><category term="Intern" /><summary></summary></entry><entry><title>Motion Tracking User Interface</title><link href="http://localhost:4000//Motion-Tracking-User-Interface/" rel="alternate" type="text/html" title="Motion Tracking User Interface" /><published>2017-01-13T00:00:00-06:00</published><updated>2017-01-13T00:00:00-06:00</updated><id>http://localhost:4000//Motion-Tracking-User-Interface</id><content type="html" xml:base="http://localhost:4000//Motion-Tracking-User-Interface/">&lt;p&gt;&lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/gest.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/gest.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://liewsanmin.github.io/projects/motionTracking/objectDetect.html&quot;&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/motionTracking/objectDetect.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by Iron Man’s movie user interface. I decided to start another side
@@ -93,7 +140,7 @@ easily accessible.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/mtschirs/js-objectdetect&quot;&gt;js-objectdetect&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hadimichael/gest.js&quot;&gt;gest.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/WhitestormJS/whitestorm.js&quot;&gt;whitestrom.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="JavaScript" /><category term="Motion Tracking UI" /><category term="HTML" /><summary></summary></entry><entry><title>Building a Smart Lamp</title><link href="http://liewsanmin.github.io/Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://liewsanmin.github.io/Smart-Light-Project</id><content type="html" xml:base="http://liewsanmin.github.io/Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
+&lt;/ul&gt;</content><category term="JavaScript" /><category term="Motion Tracking UI" /><category term="HTML" /><summary></summary></entry><entry><title>Building a Smart Lamp</title><link href="http://localhost:4000//Smart-Light-Project/" rel="alternate" type="text/html" title="Building a Smart Lamp" /><published>2016-12-04T00:00:00-06:00</published><updated>2016-12-04T00:00:00-06:00</updated><id>http://localhost:4000//Smart-Light-Project</id><content type="html" xml:base="http://localhost:4000//Smart-Light-Project/">&lt;p&gt;A few months ago when I was getting ready to bed and wanted to turn off the lights,
 the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
@@ -151,7 +198,7 @@ the usual routine started with complaining the switch being too far away. Then I
 will mimic the ‘spiderman web shot move’ to turn off the switch, but that
 never works. Until one day it dawned on me, I could buy a lamp that is connected
 to my phone! Googled it, too pricey. Fine, I decided to make one from
-the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp at Turck Inc</title><link href="http://liewsanmin.github.io/benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp at Turck Inc" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://liewsanmin.github.io/benefits-working-as-a-coop</id><content type="html" xml:base="http://liewsanmin.github.io/benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
+the items I have in my room from my past courses taken at the University.</summary></entry><entry><title>Experience Working as a CoOp at Turck Inc</title><link href="http://localhost:4000//benefits-working-as-a-coop/" rel="alternate" type="text/html" title="Experience Working as a CoOp at Turck Inc" /><published>2016-08-24T00:00:00-05:00</published><updated>2016-08-24T00:00:00-05:00</updated><id>http://localhost:4000//benefits-working-as-a-coop</id><content type="html" xml:base="http://localhost:4000//benefits-working-as-a-coop/">&lt;p&gt;It’s been almost 3 months and counting since I started working at
 &lt;a href=&quot;http://www.turck.us/en/&quot;&gt;Turck&lt;/a&gt;. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
 am liking the challenge my supervisor gave me and the support they provide.&lt;/p&gt;
@@ -184,7 +231,7 @@ and exposure.&lt;/p&gt;
 &lt;em&gt;Complete and working Color Sensor!&lt;/em&gt;&lt;/p&gt;</content><category term="Industrial Automation" /><category term="PCB" /><category term="Microcontroller" /><category term="Color Sensor" /><category term="Eagle" /><category term="LPKF Milling Machine" /><category term="LabView" /><category term="I2C" /><category term="Coop" /><summary>It’s been almost 3 months and counting since I started working at
 Turck. And I never would’ve imagined learning so much
 in just a short period of time. My experience thus far has been very good and I
-am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://liewsanmin.github.io/benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+am liking the challenge my supervisor gave me and the support they provide.</summary></entry><entry><title>Benefits Why Solar Vehicle Project is Good for You</title><link href="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/" rel="alternate" type="text/html" title="Benefits Why Solar Vehicle Project is Good for You" /><published>2016-07-05T00:00:00-05:00</published><updated>2016-07-05T00:00:00-05:00</updated><id>http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you</id><content type="html" xml:base="http://localhost:4000//benefits-why-solar-vehicle-project-is-good-for-you/">&lt;p&gt;&lt;img src=&quot;/images/svpBenefits/solarCar.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;Solar Car - EOS&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I have joined many student-led organizations at my &lt;a href=&quot;http://twin-cities.umn.edu/&quot;&gt;university&lt;/a&gt; but my presence doesn’t last for at most 2 weeks and I’m out. From laziness to low self-esteem, the excuses are endless. In January 2016, I decided to get my crap together and committed myself to participating the &lt;a href=&quot;http://umnsvp.org/&quot;&gt;Solar Vehicle Project (SVP)&lt;/a&gt;.&lt;/p&gt;
@@ -245,7 +292,7 @@ the next post.&lt;/p&gt;
 &lt;p&gt;Though I personally have not participated any of the &lt;a href=&quot;http://americansolarchallenge.org/&quot;&gt;American Solar Challenge (ASC)&lt;/a&gt; or &lt;a href=&quot;https://www.worldsolarchallenge.org/&quot;&gt;World Solar Challenge (WSC)&lt;/a&gt;. But this opportunity is really worth
 if you want to find something to do during summer with a feel of cars.&lt;/p&gt;
 
-&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://liewsanmin.github.io/guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
+&lt;p&gt;The advantages are endless if you think about it. You get the point!&lt;/p&gt;</content><category term="solar vehicle project" /><category term="altium" /><category term="c programming" /><category term="microcontroller" /><category term="soldering" /><summary>Solar Car - EOS</summary></entry><entry><title>Guide to Scrape Data from an Investment Stock Website</title><link href="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/" rel="alternate" type="text/html" title="Guide to Scrape Data from an Investment Stock Website" /><published>2016-06-30T00:00:00-05:00</published><updated>2016-06-30T00:00:00-05:00</updated><id>http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website</id><content type="html" xml:base="http://localhost:4000//guide-to-scrape-data-from-an-investment-stock-website/">&lt;p&gt;To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
 But my monthly research involves repeating the same steps:&lt;/p&gt;
@@ -384,7 +431,7 @@ script success, time to research stock = reduced&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
-But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://liewsanmin.github.io/3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://liewsanmin.github.io/3-days-in-chicago</id><content type="html" xml:base="http://liewsanmin.github.io/3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
+But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
 
@@ -512,10 +559,4 @@ But my monthly research involves repeating the same steps:</summary></entry><ent
   trip to relax after a stressful semester, I believe mini - vacations make you
   feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
 
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry><entry><title>Hello!</title><link href="http://liewsanmin.github.io/hello/" rel="alternate" type="text/html" title="Hello!" /><published>2016-04-15T00:00:00-05:00</published><updated>2016-04-15T00:00:00-05:00</updated><id>http://liewsanmin.github.io/hello</id><content type="html" xml:base="http://liewsanmin.github.io/hello/">&lt;p&gt;Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.&lt;/p&gt;
-
-&lt;p&gt;The reason I started this is because I want to share my experience as a student and also to remind myself of the amazing things (be it bad or good) that happened to me so that I can look back at my posts and reflect. Starting this blog has definitely pushed me to learn new knowledge and getting my facts right before even posting them. There are a lot of things going on in my head, sharing my random thoughts and viewpoints is definitely one way to organize them.&lt;/p&gt;
-
-&lt;p&gt;I’d like to also share as much information as possible to the world of what a normal Computer Engineering student would face if anyone is at all curious from an international student viewpoint living here in the United States. Studying here in the US is definitely challenging but fun at the same time. From the courses that I’ve taken and projects that I am working on (including this one), seeing them all in one place makes me feel better.&lt;/p&gt;
-
-&lt;p&gt;I hope this blog will somehow relate to you in one way or another. Excited to see myself improve as I move on with my daily routines. See ya’ll in the next post!&lt;/p&gt;</content><summary>Hello, Everyone! This is my very first blog using Jekyll. I am new to blogging and using Jekyll. So you will see some major modifications if you are continuously plowing through my website.</summary></entry></feed>
+&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry></feed>
