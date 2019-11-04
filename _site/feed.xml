@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2019-03-16T22:35:56-05:00</updated><id>http://localhost:4000//</id><title>Joshua Liew</title><entry><title>Introducing Automation Tools</title><link href="http://localhost:4000//introducing-automation-tool/" rel="alternate" type="text/html" title="Introducing Automation Tools" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000//introducing-automation-tool</id><content type="html" xml:base="http://localhost:4000//introducing-automation-tool/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/gRPC/gundam.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html"/><updated>2019-11-04T00:05:10-06:00</updated><id>http://localhost:4000//</id><title>Joshua Liew</title><entry><title>Growth Plateau?</title><link href="http://localhost:4000//hitting-a-plateau/" rel="alternate" type="text/html" title="Growth Plateau?" /><published>2019-11-03T00:00:00-05:00</published><updated>2019-11-03T00:00:00-05:00</updated><id>http://localhost:4000//hitting-a-plateau</id><content type="html" xml:base="http://localhost:4000//hitting-a-plateau/">&lt;p&gt;A year and a half working here at Calamp as a Firmware Test Engineer. I think I’ve hit a growth plateau?&lt;/p&gt;
+
+&lt;p&gt;Currently, so far from what I gather working a test engineer include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;testing every software version released from the firmware team, official and unofficial&lt;/li&gt;
+  &lt;li&gt;manage a test suite including python unit testing and Jira framework&lt;/li&gt;
+  &lt;li&gt;maintain and update python test scripts&lt;/li&gt;
+  &lt;li&gt;create quick python scripts upon request from the manager&lt;/li&gt;
+  &lt;li&gt;oversee the production line’s python automation code&lt;/li&gt;
+  &lt;li&gt;run individual tests on command-line interface and the onboard Linux’ OS terminal&lt;/li&gt;
+  &lt;li&gt;assisting interns, coworkers whenever they need help with Python or other miscellaneous tasks from hardware tinkering to set up the OS&lt;/li&gt;
+  &lt;li&gt;occasional travels to production lines to help with recurrent urgent issues&lt;/li&gt;
+  &lt;li&gt;solve underlying software compatibility issues in the long run&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The experience thus far is great! As good as it sounds from the bullet points above, I am starting to see a pattern and routine. 
+Although this is what I have worked for the past years in college to be an engineer, 
+where I solve real-world problems everyday. There’s still this urge to want something ‘new’ as cliché as it sounds&lt;/p&gt;
+
+&lt;p&gt;How should I move up &amp;amp; forward to get the feeeling of uneasiness out of my chest? Asking my manager for a new project will only give me more engineering tasks but I think I am 
+actually seeking for something different. Maybe something related to interpersonal relationships instead of just ‘engineering’ skills since ‘skills’ at this point
+ seems to be attainable easily as long as you practice hard for a couple days or weeks.&lt;/p&gt;
+
+&lt;p&gt;Processing all these, I am not sure how to bring this up to my manager or if I should even bring it up. Because I am not sure if this is 
+considered professional? Or personal? Maybe a therapist seems more suited to answer.&lt;/p&gt;
+
+&lt;p&gt;What am I looking for from now on? Time will tell.&lt;/p&gt;
+
+&lt;p&gt;Here’s a flower&lt;/p&gt;</content><category term="work" /><category term="test engineer" /><category term="career" /><summary>A year and a half working here at Calamp as a Firmware Test Engineer. I think I’ve hit a growth plateau?</summary></entry><entry><title>Introducing Automation Tools</title><link href="http://localhost:4000//introducing-automation-tool/" rel="alternate" type="text/html" title="Introducing Automation Tools" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000//introducing-automation-tool</id><content type="html" xml:base="http://localhost:4000//introducing-automation-tool/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/gRPC/gundam.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;em&gt;My favorite Double 00 Raiser, I’m sure this goes through major firmware testing&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Some of the best ways to communicate to say a local server is through telnet and gRPC&lt;/p&gt;
@@ -431,132 +460,4 @@ script success, time to research stock = reduced&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;openPriceTargetLink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><category term="webscraping" /><category term="stock investment" /><category term="python" /><summary>To understand the stock market, my elder brother Anthony gives me monthly
 assignments to research the stock exchange in Malaysia. And I have to report
 2 to 3 stocks and give legit reasons why I chose them before purchasing one.
-But my monthly research involves repeating the same steps:</summary></entry><entry><title>3 Days in Chicago</title><link href="http://localhost:4000//3-days-in-chicago/" rel="alternate" type="text/html" title="3 Days in Chicago" /><published>2016-05-22T00:00:00-05:00</published><updated>2016-05-22T00:00:00-05:00</updated><id>http://localhost:4000//3-days-in-chicago</id><content type="html" xml:base="http://localhost:4000//3-days-in-chicago/">&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/IMG_0118.JPG&quot; alt=&quot;Image of buffet&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My girlfriend and I had a fun getaway on a road trip to Chicago.&lt;/p&gt;
-
-&lt;h2 id=&quot;st-day&quot;&gt;1st day&lt;/h2&gt;
-
-&lt;p&gt;So, I have 2 main goals for this trip. The first one is the hotel we booked. I
-  just love hotel designs and their customer service. Their beds are just too
-  comfortable! The second goal for me would be food, I just want
-  to enjoy. Food.&lt;/p&gt;
-
-&lt;p&gt;We packed our stuff, get in the car and off we go on the road trip. I was a
-  little anxious for my car because well, this is my first time driving 6 hours
-  on my own and it will be troublesome to fix my car if it gets down to that.
-  Anyway, look how beautiful it is from the inside!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;Mickey and Minnie joining the fun!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;em&gt;Dem Harley Davidson&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/car_trip_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;em&gt;Halo~&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;After about 6 hours of drive and settling at Sheraton Hotel (yes, it is
-  as wonderful as I thought it would be, too bad we did not take pictures when
-  it was tidy!). We went straight to Woo Chon restaurant to have our favorite
-  Korean BBQ. Yelp helped us a lot and we did not regret coming to this
-  restaurant. The meal was like a mini celebration for us for arriving Chicago,
-  the waitress even helped us to cook our meal.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;yummy~&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/bbq_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The first day was awesome so far, I recommend using hotwire, yelp, and Google
-  Maps when planning for road trips.&lt;/p&gt;
-
-&lt;h2 id=&quot;nd-day&quot;&gt;2nd day&lt;/h2&gt;
-
-&lt;p&gt;We started our second day around 10am (wanted to wake up earlier, though). Had
-  an awesome breakfast buffet before going to our first checkpoint Millennium
-  Park.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_1.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;Omelet, too good&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/buffet_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Just like every other tourist, we took tons of pictures, well my girlfriend
-  did. I am just people watching. I’ll let the pictures tell the rest of the
-  story from here.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/m_park_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;The infamous 360 tower&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/m_park_11.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Continuing our planned trip, we decided to go and have lunch at Chinatown.
-  The one in Chicago feels like every other Chinatown I have been to in the US.
-  Crowded and waiters with thick accent serving us at the restaurant. We had
-  dim sum at Ming Hin restaurant and it was tasty. The only downside was the
-  Malay cake we ordered, Malaysia’s Malay Cake is wayyyy better than the one
-  that is served here.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_1.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/chinatown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;I don’t like this :(&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Now we are ready to go 360 observation deck and walk along the Magnificient
-  Mile (shopping and such). One thing I want to highlight about Chicago drivers,
-  I noticed all of them are in a hurry as if they are on an important mission
-  to save the world. All of them. The downtown view looks nice, though. A good place to
-  take pictures.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_3.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;
-  &lt;em&gt;Ended up not going up, the view from the bottom is good enough!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_7.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/downtown_8.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All right, we finally have a feel of Chicago downtown. What’s that? Is energy bar running low? Okay, Yelp saved the day again, Silver Spoon Thai Restaurant
-  it is.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_2.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_4.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://liewsanmin.github.io/images/chicago-5-20-2016/thai_5.JPG&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We were supposed to walk along Navy Pier but at this point, it was getting
-  chilly and it is getting dark. Instead of walking we just drove at Navy Pier
-  until the end of the road and went back to the hotel.&lt;/p&gt;
-
-&lt;p&gt;The second day was the heart of the trip. The only things we oversee were
-  parking spots and restaurant to go. In all honesty, impromptu planning isn’t
-  all that bad~&lt;/p&gt;
-
-&lt;h2 id=&quot;rd-day&quot;&gt;3rd day&lt;/h2&gt;
-
-&lt;p&gt;We concluded our trip by having lunch with my classmate and his girlfriend at
-  Yu’s Mandarin. The food is really good, too bad we did not take any pictures.&lt;/p&gt;
-
-&lt;p&gt;Overall we spent about $250 per person for this trip, it is really not bad at
-  all. I’d say this road trip is pretty well planned and went smoothly. It is a good
-  trip to relax after a stressful semester, I believe mini - vacations make you
-  feel happier rather long vacations. Stay happy everyone!&lt;/p&gt;
-
-&lt;p&gt;Photo credits: Nguyen Ngoc Anh&lt;/p&gt;</content><category term="chicago" /><category term="road trip" /><summary></summary></entry></feed>
+But my monthly research involves repeating the same steps:</summary></entry></feed>

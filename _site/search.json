@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Growth Plateau?",
+      "tags"     : "work, test engineer, and career",
+      "url"      : "/hitting-a-plateau/",
+      "date"     : "03 Nov 2019"
+    } ,
+  
+    {
       "title"    : "Introducing Automation Tools",
       "tags"     : "work, gRPC, and telnet",
       "url"      : "/introducing-automation-tool/",
