@@ -36,6 +36,9 @@ considered professional? Or personal? Maybe a therapist seems more suited to ans
 
 What am I looking for from now on? Time will tell.
 
-Here's a flower
+Here's some flowers
+
+![Markdown Image][1]
+*Source: https://www.trulygeeky.com/most-beautiful-flowers/*
 
 [1]: https://liewsanmin.github.io/images/growthPlateau/flower.jpg
