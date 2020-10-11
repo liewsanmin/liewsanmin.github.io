@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Growth Plateau? - Part 2 (Answered)",
+      "tags"     : "work and career",
+      "url"      : "/growth-plateau-2/",
+      "date"     : "04 Oct 2020"
+    } ,
+  
+    {
       "title"    : "Growth Plateau?",
       "tags"     : "work, test engineer, and career",
       "url"      : "/hitting-a-plateau/",
@@ -68,13 +75,6 @@
       "tags"     : "webscraping, stock investment, and python",
       "url"      : "/guide-to-scrape-data-from-an-investment-stock-website/",
       "date"     : "30 Jun 2016"
-    } ,
-  
-    {
-      "title"    : "3 Days in Chicago",
-      "tags"     : "chicago and road trip",
-      "url"      : "/3-days-in-chicago/",
-      "date"     : "22 May 2016"
     } ,
   
     {
