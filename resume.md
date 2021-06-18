@@ -7,7 +7,10 @@ permalink: /resume/
 <br>
 <h1>Resume</h1>
 
-<b>OBJECTIVE</b> : Computer Engineering student with 2-year experience in telematics, powersports, and automation industry. Aiming to fill a full-time position during Fall 2018 to utilize my experience in writing software and debugging hardware applications.
+Firmware Engineer skilled in Python, C/C++, C#, RTOS, and Embedded Systems with 2+ years experience in the wireless industry; 1+ years in the Powersports and automation industry. Professional with a Bachelor's Degree in Computer Engineering from the University Of Minnesota, Twin Cities.
+
+
+H1-B Visa Holder
 
 
 
@@ -25,7 +28,7 @@ permalink: /resume/
 <ul class="edcc-list">
 	<li>Edmonds Community College (EDCC), Lynnwood, WA</li>
 	<li>CGPA: 3.64 </li>
-	<li>Jan 2013 – June 2015</li>
+	<li>Jan 2013 – Jun 2015</li>
 </ul>
 
 <!-- skills -->
@@ -42,8 +45,24 @@ permalink: /resume/
 <!-- Work Experience -->
 <h1>Related Work Experience</h1>
 
+<h2>Engineer II, Firmware
+Mar 2020 – Present</h2>
+<ul class="work-list">
+	<li>Maintained STM32L4A6 (ARM Cortex M4) C code including unit tests, TCP/IP, UDP, and CAN (j1939) protocols</li>
+	<li>Periodically released firmware packages to customers encompassing 3G/4G, satellite, and cellular IoT technology</li>
+	<li>7Continued assistance to co-workers with Python, firmware/hardware configurations, etc.</li>
+</ul>
+
+<h2>Engineer I, Test
+Nov 2018 – Mar 2020</h2>
+<ul class="work-list">
+	<li>Maintained and created over 200 Python automated unit test scripts for OEM products with processors including ARMv7, ARM9, and gRPC protocol</li>
+	<li>Mentored and led 2 interns on daily hardware/software debugging, meetings, and delegating weekly tasks</li>
+	<li>70% reduced unit test time in the production line by removing repetitive variable instantiations</li>
+</ul>
+
 <h2>Firmware Engineering Intern, CalAmp, Eden Prairie, Minnesota,
-June 2018 - Present</h2>
+Jun 2018 - Nov 2018</h2>
 <ul class="work-list">
 	<li>Automated IoT modem’s Linux Kernel firmware upgrade procedure in Python using Open Dev Platform</li>
 	<li>Sent pre-defined commands to the cellular WAN and satellite modems via Remote Procedure Call (gRPC)</li>
@@ -63,7 +82,7 @@ May 2017 – Sept 2017</h2>
 
 
 <h2>Computer Engineering Co-op, Turck Inc, Plymouth, Minnesota,
-June 2016 – Dec 2016</h2>
+Jun 2016 – Dec 2016</h2>
 <ul class="work-list">
 	<li>Designed circuit boards using the Eagle CAD and solder them after being created from the milling machine</li>
 	<li>Converted the LabView Color Sensor to a C# supported software to save cost from purchasing more LabViews</li>
