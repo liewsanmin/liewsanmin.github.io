@@ -9,6 +9,8 @@ tag:
 - AI
 ---
 
+![Markdown Image][1]
+
 Folks. Please enjoy this short article about how to avoid read-while-write (RWW) errors on flash memory, with the help of [ChatGPT](https://openai.com/blog/chatgpt/)!
 
 Flash memory is a type of non-volatile storage technology that is commonly used in our favorite consumer electronics, such as smartphones, tablets, and USB drives. Unlike traditional hard drives, which use spinning disks to store data, flash memory uses an array of electrically charged cells to store information.
@@ -79,3 +81,5 @@ The `write_application_to_ram` function or the main method creates an array or b
 # Add Error Detection and Correction Mechanisms
 
 Additionally, it may be necessary to incorporate error detection and correction mechanisms into the software, to ensure that any corrupted data can be detected and repaired before it causes problems. This can help to reduce the likelihood of data loss or other issues due to RWW errors.
+
+[1]: https://liewsanmin.github.io/images/gRPC/gundam.jpg
