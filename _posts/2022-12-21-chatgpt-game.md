@@ -40,9 +40,7 @@ public:
 
 As I continued to work on the game, ChatGPT provided helpful tips on optimizing the code and improving the overall gameplay experience. It was truly amazing to see the game come to life with the help of ChatGPT's expertise and guidance.
 
-```
 ![Markdown Image][2]
-```
 
 In the end, I was able to create a fully-functional and exciting text-based adventure game thanks to ChatGPT. Whether you're a seasoned game developer or a beginner, ChatGPT is an invaluable resource that can help bring your game ideas to life. So don't wait any longer, start creating your own epic game with ChatGPT today!
 
