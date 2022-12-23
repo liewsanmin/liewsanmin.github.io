@@ -7,6 +7,7 @@ tag:
 - JavaScript
 - Motion Tracking UI
 - HTML
+- game
 ---
 
 [![image](https://liewsanmin.github.io/images/motionTracking/gest.png)](https://liewsanmin.github.io/projects/motionTracking/gest.html)

@@ -1,0 +1,7 @@
+If you're having trouble with running `jekyll serve`, run these commands:
+
+`bundle exec jekyll serve`
+`bundle add webrick`
+`bundle update github-pages`
+`bundle install`
+`bundle update`

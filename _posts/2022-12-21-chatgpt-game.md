@@ -10,7 +10,7 @@ tag:
 
 ![Markdown Image][1]
 
-Are you an aspiring game developer looking to create your own epic text-based adventure game? Look no further, because ChatGPT is here to help!
+Are you an aspiring game developer looking to create your own epic [text-based adventure game](https://github.com/liewsanmin/text_based_world/)? Look no further, because ChatGPT is here to help!
 
 First, let's start by outlining the basic structure of our game. We'll have a player character who is stranded on an alien planet and must navigate through various locations to find resources and repair their spaceship in order to return home. To make things more interesting, we'll also include a variety of strange creatures and objects that the player can interact with.
 
@@ -41,13 +41,7 @@ public:
 As I continued to work on the game, ChatGPT provided helpful tips on optimizing the code and improving the overall gameplay experience. It was truly amazing to see the game come to life with the help of ChatGPT's expertise and guidance.
 
 ```
-Welcome Bobby! You've crash-landed on this mysterious planet and must now embark on an adventure to explore your surroundings and figure out a way to repair your spaceship. As you wander the alien landscape, you'll come across a variety of strange and intriguing creatures, each with their own unique abilities and personalities. With your wits and a little bit of luck, you'll need to navigate through the dangers and find the resources you need to fix your ship and make your way back home. Good luck, and have fun on your adventure!
-
-What do you plan to do next?
-1. get stat
-2. move
-3. interact
-0. quit
+![Markdown Image][2]
 ```
 
 In the end, I was able to create a fully-functional and exciting text-based adventure game thanks to ChatGPT. Whether you're a seasoned game developer or a beginner, ChatGPT is an invaluable resource that can help bring your game ideas to life. So don't wait any longer, start creating your own epic game with ChatGPT today!
@@ -66,4 +60,5 @@ Developer: Joshua Liew
  ***
 ```
 
-[1]: https://liewsanmin.github.io/images/spaceship.jpg
+[1]: https://liewsanmin.github.io/images/alien_world/spaceship.jpg
+[2]: https://liewsanmin.github.io/images/alien_world/welcome_prompt.jpg
