@@ -103,8 +103,8 @@ And if you're stuck on a puzzle. You can always ask for hints, how cool is that!
 
 [1]: https://liewsanmin.github.io/images/alien_world/spaceship.jpg
 [2]: https://liewsanmin.github.io/images/alien_world/prompt_1.jpg
-[3]: https://liewsanmin.github.io/images/alien_world/.jpg
-[4]: https://liewsanmin.github.io/images/alien_world/.jpg
-[5]: https://liewsanmin.github.io/images/alien_world/.jpg
-[6]: https://liewsanmin.github.io/images/alien_world/.jpg
-[7]: https://liewsanmin.github.io/images/alien_world/.jpg
+[3]: https://liewsanmin.github.io/images/alien_world/prompt_2.jpg
+[4]: https://liewsanmin.github.io/images/alien_world/prompt_3.jpg
+[5]: https://liewsanmin.github.io/images/alien_world/prompt_4.jpg
+[6]: https://liewsanmin.github.io/images/alien_world/retry.jpg
+[7]: https://liewsanmin.github.io/images/alien_world/hint.jpg
