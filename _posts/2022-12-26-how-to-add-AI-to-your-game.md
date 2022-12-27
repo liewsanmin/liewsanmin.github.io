@@ -12,6 +12,8 @@ tag:
 
 Are you looking to add a fun and interactive element to your game development project? Look no further, because using Python and [OpenAI's API](https://beta.openai.com/docs/introduction), you can easily add artificial intelligence (AI) to your game to create a unique and engaging experience for your players.
 
+Here is the [repo](https://github.com/liewsanmin/text_based_world/)!
+
 In the tutorial below, we see the implementation of a virtual text-based game where the player is stranded on an alien planet and must navigate through various locations in order to escape. The player is given math puzzles to solve at each location, and if they answer correctly, they are congratulated and can move on to the next location.
 
 First, we import the necessary libraries and set the API key for OpenAI:
