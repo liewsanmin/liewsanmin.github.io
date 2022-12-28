@@ -9,6 +9,7 @@ tag:
 ---
 
 ![spaceship](https://liewsanmin.github.io/images/alien_world/spaceship.jpg)
+*Created by Dall-E*
 
 Are you looking to add a fun and interactive element to your game development project? Look no further, because using Python and [OpenAI's API](https://beta.openai.com/docs/introduction), you can easily add artificial intelligence (AI) to your game to create a unique and engaging experience for your players.
 
