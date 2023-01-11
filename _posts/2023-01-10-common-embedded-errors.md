@@ -1,5 +1,5 @@
 ---
-title: "Common Embedded Errors, with real-life experience"
+title: "Common Embedded Errors, with real-life examples"
 layout: post
 date: 2023-01-10
 blog: true
