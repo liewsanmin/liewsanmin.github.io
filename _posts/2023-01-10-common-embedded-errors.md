@@ -38,7 +38,7 @@ I reached out to the hardware team for help, and together we found out that the 
 With this knowledge in hand, we quickly replaced the crystal and the problem was solved. The serial output began working again and the system was back to normal.
 
 # Communication errors
-
+6
 This refers to issues that arise in the communication process between different components or subsystems within an embedded system. These errors can occur at various levels of the communication stack, including the physical, data link, network, transport, and application layers. Examples of embedded communication errors include:
 
 * Data transmission errors caused by noise or interference on the communication channel
@@ -75,7 +75,7 @@ We rely on real-time clocks (RTC) to keep our systems running on time, but what 
 
 I knew I had to understand why the RTC time was drifting, so I set out to investigate the possible causes. Could it be that the RTC was not accurately calibrated? Maybe the RTC was running on a low-quality battery, or perhaps it was experiencing interference? And what about the prescalar, was it set correctly and not affecting the RTC to increment at an incorrect rate?
 
-I dug deeper and deeper into the code and the hardware, looking for any clues that could shed light on the mystery. And after hours of research, experimentation, and a bit of detective work, I found that the RTC drift seemed to be caused by a combination of reasons which I can't pinpoint. To solve this problem, I added a margin of error in our specifications to account for the drift that will inevitably occur in the future.
+Working with the hardware team, we found out that the load capacitance value that was used to control the oscillator crystals freqency is incorrect. This incorrect load capacitor value used for the external crystal oscillator of the RTC caused the RTC time to drift. To fix this issue, the correct load capacitor value is used
 
 # Software Errors
 
